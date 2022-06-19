@@ -1,0 +1,906 @@
+{
+  "jobs": [
+    {
+      "id": 606,
+      "attributes": {
+        "title": "Staff Site Reliability Engineer ",
+        "description": "<p>CircleCI is seeking a Staff Site Reliability Engineer to work closely with our Software Engineers to deliver and manage the high-performance and scalable infrastructure underlying our multi-tenant Cloud offering as well as our Server-installed, on-premises solution. You will not only have the chance to automate and optimize infrastructure through the construction of appropriate tooling, but you will help software engineers through the design phase to optimize their services for scale in our production environment.</p>\n\n<p>The CircleCI SRE team is globally distributed and remote-friendly. We take advantage of multiple timezones to manage a platform for our global customer base.</p>\n\n<p><b>About CircleCI</b></p>\n\n<ul>Velocity is critical for software teams in today's competitive landscape, but maintaining speed can be difficult as apps and systems grow larger and more complex. CircleCI’s platform allows developers to rapidly release code (for web and mobile apps) they trust by automating the build, test, and deploy process. CircleCI enables developers to detect and fix bugs before they even reach customers. Thousands of leading companies including Facebook, Kickstarter, Shyp and Spotify rely on CircleCI to accelerate delivery of their code and enable developers to focus on creating business value fast.</ul><p>CircleCI is a Bay Area Best Places to Work 2016 award winner. Founded in 2011 and headquartered in beautiful downtown San Francisco with a global remote workforce, CircleCI is venture backed by Scale Venture Partners, DFJ, Baseline Ventures and Harrison Metal Capital.</p>\n\n<p><b>What will make you successful:</b></p>\n\n<ul>\n<li>Experience managing a container-based microservice architecture, including orchestration, service-discovery, monitoring, and debugging</li>\n<li>Understanding of standard networking protocols and components such as: TCP/IP, HTTP, DNS, ICMP, the OSI Model, Subnetting, and Load Balancing</li>\n<li>In-depth knowledge of operating systems (processes, threads, IPC, concurrency, locks, mutexes, semaphores, etc.)</li>\n<li>Proficiency in one or more of: C, C++, Java, Python, Go</li>\n<li>Comprehensive knowledge of the internal workings of at least one of Postgres, Mongo, Redis</li>\n<li>Systematic problem solving approach, coupled with a strong sense of ownership and drive</li>\n<li>Track-record of working cooperatively with software engineering teams</li>\n<li>Focus on security in the delivery of all levels of a system</li>\n<li>Passion for modern software development and operation, including agile, CI/CD, and infrastructure-as-code</li>\n<li>Desire to learn and grow</li>\n<li>6+ years of experience</li>\n</ul><p><b>What you will do:</b></p>\n\n<ul>\n<li>Design and deliver solutions to improve the availability, scalability, latency, and efficiency of CircleCI’s services</li>\n<li>Engage in service capacity planning and demand forecasting, anticipating performance bottlenecks</li>\n<li>Diagnose and resolve production issues in conjunction with software engineering teams</li>\n<li>Architect and implement shared infrastructure used by all services within the CircleCI platform, for both SaaS and on-prem configurations</li>\n<li>Support and advise software engineering teams in the design of scalable services</li>\n<li>Build and maintain tools for deployment, monitoring, and debugging</li>\n<li>Plan and execute disaster recovery drills</li>\n<li>Participate in rotating on-call duties, including incident management</li>\n</ul><p>If you’re interested in joining the team at CircleCI, please send a resumé and let us know why you’d be a great fit for our team. If you contribute to an open source project, write a blog, or have a presence on the web (Twitter, GitHub, LinkedIn, etc.) we would love to hear about it.</p>\n\n<p>We care deeply about diversity and inclusivity. We’re hiring at all experience levels, and seek talented teammates from a wide variety of backgrounds and experiences who are equally committed to cultivating a work environment of respect and kindness. We carefully consider every applicant that takes the time to apply.</p>",
+        "createdAt": "2022-02-24T03:21:40.349Z",
+        "updatedAt": "2022-02-24T03:21:40.349Z",
+        "publishedAt": "2022-02-24T03:21:40.348Z",
+        "location": "Remote",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1097,
+            "attributes": {
+              "name": "CircleCI",
+              "createdAt": "2022-02-24T03:21:39.718Z",
+              "updatedAt": "2022-02-24T03:21:39.718Z",
+              "publishedAt": "2022-02-24T03:21:39.714Z",
+              "url": "http://www.circleci.com ",
+              "logo": "http://github-jobs.s3.amazonaws.com/e31a24d4-2257-11e8-8ff4-dccd85004d2c.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 607,
+      "attributes": {
+        "title": "Principal Software Engineer ",
+        "description": "<p>CircleCI is looking for an experienced engineering leader to help us guide the evolution of our platform architecture. In this role, you will work with the entire Engineering organization to help cross-functional teams create designs that fit their business and technical needs while ensuring architectural consistency.</p>\n\n<p>At CircleCI you will be working with a team who values trust, respect, and diversity. We are a globally distributed team working towards the common goal of being the standard bearer for continuous integration and deployment software. We are remote-friendly, and are looking for people who are passionate about helping shape software engineering best practices for the industry as a whole. While we can support a remote role anywhere you also have the option to work out of our Toronto or San Francisco office.</p>\n\n<p>To thrive in this role you are someone who works well in teams and enjoys collaborating. Furthermore, you understand the business impact of your code and enjoy incorporating the business objectives into your approach to development. You enjoy working with Product to find the best solution to the problem at hand, and can balance technical tradeoffs with delivering customer value quickly and iteratively.</p>\n\n<p><b>About CircleCI</b></p>\n\n<ul>Velocity is critical for software teams in today's competitive landscape, but maintaining speed can be difficult as apps and systems grow larger and more complex. CircleCI’s platform allows developers to rapidly release code (for web and mobile apps) they trust by automating the build, test, and deploy process. CircleCI enables developers to detect and fix bugs before they even reach customers. Thousands of leading companies including Facebook, Kickstarter, Shyp and Spotify rely on CircleCI to accelerate delivery of their code and enable developers to focus on creating business value fast.</ul><p><b>About this role:</b></p>\n\n<ul>\n<li>Map technology trends into technical requirements</li>\n<li>Evaluate products and make buy vs build decisions</li>\n<li>Coach/train teams on complex technical subjects</li>\n<li>Scope initiatives based on high-level product conversations</li>\n<li>Shape how we design, release, and maintain microservices</li>\n<li>Work closely with Product to ensure delivery of high value customer facing features</li>\n<li>Work on cross-functional, feature-driven engineering teams</li>\n</ul><p><b>You have:</b></p>\n\n<ul>\n<li>Experience designing across architectural styles to fit the needs of the business</li>\n<li>Deep understanding of modern software development, including agile, CI/CD, and infrastructure-as-code</li>\n<li>Strong understanding of the business impact of your work</li>\n<li>Experience with microservice architectures</li>\n<li>Experience with functional programming</li>\n<li>10+ years of development experience</li>\n<ul>\n<b>You Enjoy:</b>\n<ul>\n<li>Working in a highly collaborative environment</li>\n<li>Supporting an environment that values trust, respect, and diversity</li>\n<li>Exploring different methods for efficiently delivering code and customer value</li>\n<li>Delivering value to customers</li>\n<li>Sharing your expertise and encouraging best practices</li>\n</ul>\n<p>CircleCI is a Bay Area Best Places to Work 2016 award winner. Founded in 2011 and headquartered in beautiful downtown San Francisco with a global remote workforce, CircleCI is venture backed by Scale Venture Partners, DFJ, Baseline Ventures and Harrison Metal Capital. </p>\n\n<p>We care deeply about diversity and inclusivity. We’re hiring at all experience levels, and seek talented teammates from a wide variety of backgrounds and experiences who are equally committed to cultivating a work environment of respect and kindness. We carefully consider every applicant that takes the time to apply.</p>\n</ul>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.356Z",
+        "updatedAt": "2022-02-24T03:21:40.356Z",
+        "publishedAt": "2022-02-24T03:21:40.356Z",
+        "location": "Remote Or San Francisco ",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1097,
+            "attributes": {
+              "name": "CircleCI",
+              "createdAt": "2022-02-24T03:21:39.718Z",
+              "updatedAt": "2022-02-24T03:21:39.718Z",
+              "publishedAt": "2022-02-24T03:21:39.714Z",
+              "url": "http://www.circleci.com ",
+              "logo": "http://github-jobs.s3.amazonaws.com/e31a24d4-2257-11e8-8ff4-dccd85004d2c.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 608,
+      "attributes": {
+        "title": "Database Engineer / Optimization / Implementations",
+        "description": "<p>We are hiring for a part-time or full-time database engineer to join our Palo Alto team.</p>\n\n<p>Job description</p>\n\n<p>ClearAccessIP team is looking for a strong database engineer to join our team to enable us to grow our data-driven, high impact analytics and data management offering. If you are data curious, excited about deriving insights from data, and motivated by having impact on the business, we want to hear from you.</p>\n\n<p>As a database and dev ops engineer, you would be responsible for:</p>\n\n<ul>\n<li>Building, deploying and monitoring our environment servers</li>\n<li>Implementing and optimizing statistical and deep learning models on large datasets,</li>\n<li>Database maintenance and optimization</li>\n</ul><p>Required Qualifications</p>\n\n<ul>\n<li>Strong experience with one or more of the following technologies: Java, Python, Shell Scripting, PostgreSQL/MySQL, MongoDB</li>\n<li>Experience with web servers (Apache, Tomcat, etc)</li>\n<li>Experience with AWS services e.g., S3, EC2</li>\n</ul><p>Bonus!</p>\n\n<ul>\n<li>For the right candidate, be hire #10 and join our 2015 stock option plan after 90 days.</li>\n<li>we cover lunch every work day on the food-filled California Ave in Palo Alto.</li>\n<li>Technical advisors from the top professors in machine learning</li>\n<li>$2800 conference stipend</li>\n<li>the top healthcare California has to offer (UnitedHealth Gold Plus Plan)</li>\n<li>$250/month health and wellness stipend</li>\n<li>Reasonable work schedule for a start-up (our average engineer arrives to work at 10am)</li>\n<li>light-filled office surrounded by trees</li>\n</ul><p>We are hiring quickly, so be sure to reach out if you're interested!</p>",
+        "createdAt": "2022-02-24T03:21:40.363Z",
+        "updatedAt": "2022-02-24T03:21:40.363Z",
+        "publishedAt": "2022-02-24T03:21:40.362Z",
+        "location": "Palo Alto",
+        "type": "Part Time",
+        "company": {
+          "data": {
+            "id": 1098,
+            "attributes": {
+              "name": "ClearAccessIP",
+              "createdAt": "2022-02-24T03:21:39.734Z",
+              "updatedAt": "2022-02-24T03:21:39.734Z",
+              "publishedAt": "2022-02-24T03:21:39.734Z",
+              "url": "http://ClearAccessIP",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 609,
+      "attributes": {
+        "title": "DevOps engineer at intersection of information security and cryptocurrency",
+        "description": "<h2>Job description</h2>\n\n<p><a href=\"https://chorus.one/\">Chorus One</a> builds and operates infrastructure for emerging cryptocurrency and blockchain networks. Our products will help token holders make returns and shape the evolution of decentralized cryptocurrency networks.</p>\n\n<p>The first product is a validator for the Proof-of-Stake <a href=\"https://cosmos.network/\">Cosmos network</a>. In the medium term, we will operate nodes and run infrastructure on various other cryptocurrency networks.</p>\n\n<p>We are hiring a full-time DevOps engineer to implement and maintain production infrastructure.. This position is a unique opportunity to work with a very experienced team on cutting-edge blockchain networks and information security.</p>\n\n<h3>Responsibilities:</h3>\n\n<ul>\n<li>Design, implement and maintain production systems for cryptocurrency validators. Systems are expected to incorporate signing servers, test networks, validating servers, relaying nodes, key security solutions, monitoring tools and administration tools.</li>\n<li>Implement security policies to ensure that production systems are hardened against external attack.</li>\n<li>Develop a continuous integration and testing pipeline to automatically test and upgrade code bases powering test networks and production validators.</li>\n<li>Setup and operate a Kubernetes and/or Docker Swarm cluster on production and test networks.</li>\n<li>Harden Linux hosts via HIDS policies (e.g., apparmor, SELinux).</li>\n</ul><h3>The ideal candidate:</h3>\n\n<ol>\n<li>Is able to work independently</li>\n<li>Has prior work experience in a medium sized company or as a DevOps lead in a startup</li>\n<li>Knowledge of AWS, continuous integration and automated deployment</li>\n<li>Good knowledge of security as it relates to cloud based infrastructure</li>\n<li>Experience using automated monitoring tools</li>\n<li>Experience scaling containers both horizontally and vertically.</li>\n<li>Experience working with firewalls, intrusion prevention and intrusion detection systems</li>\n<li>Bachelor’s or advanced degree in computer science is a plus,but not strictly needed.</li>\n</ol><h3>We offer:</h3>\n\n<ul>\n<li>Competitive salary (70k-110k per year) + equity.</li>\n<li>5 weeks annual leave.</li>\n<li>Full-time position.</li>\n<li>Location: Remote, Los Angeles or Berlin.</li>\n<li>Work on cool technology and interesting problems at the intersection of finance, cryptocurrency, information security and blockchain networks.</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.367Z",
+        "updatedAt": "2022-02-24T03:21:40.367Z",
+        "publishedAt": "2022-02-24T03:21:40.366Z",
+        "location": "Remote",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1099,
+            "attributes": {
+              "name": "Chorus One",
+              "createdAt": "2022-02-24T03:21:39.744Z",
+              "updatedAt": "2022-02-24T03:21:39.744Z",
+              "publishedAt": "2022-02-24T03:21:39.744Z",
+              "url": "https://chorus.one/",
+              "logo": "http://github-jobs.s3.amazonaws.com/a72a0c76-224a-11e8-85c2-d62275ca4d68.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 610,
+      "attributes": {
+        "title": "Systems Analyst/Programmer, Libraries Information Technology ",
+        "description": "<p>Columbia University Libraries seeks a motivated and collaborative Systems Analyst/Programmer to join the Libraries Information Technology (LIT) division. \nUnder general supervision, develops specifications and requirements for database applications in support of library programs; programs, enhances, modifies, and expands new and existing database applications and related programs; installs and integrates vendor-supplied database applications. \nDetailed responsibilities include but are not limited to: </p>\n\n<ul>\n<li>programming, debugging, and documenting complex software applications, including batch interface properties for database applications.</li>\n<li>consulting with Libraries staff to develop application functional requirements, conducting data analyses and preparing specifications.</li>\n<li>preparing program design descriptions, models and prototypes, modifying specifications to improve design and functionality, in consultation with other technical staff.</li>\n<li>managing security policies, access permissions, and disaster recovery for mission-critical data on servers and desktop systems.</li>\n<li>installing and integrating vendor-supplied database applications.</li>\n<li>acting as a resource and consultant to staff involved in related projects and performing other duties as assigned.\nAs one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic multicultural intellectual community. The Columbia University Libraries comprises a diverse, collegial and engaged staff committed to furthering the University’s teaching and research mission through innovation, leadership, collaboration and professionalism.</li>\n</ul><p>Minimum Qualifications: </p>\n\n<ul>\n<li>Bachelor's degree and a minimum three years’ related experience or the equivalent combination of education and experience.</li>\n<li>Experience in progressive analysis and programming.</li>\n<li>Development experience in UNIX.</li>\n<li>Proficiency in one or more appropriate application development languages (such as perl, PHP, python, ruby). </li>\n<li>Development experience in MySQL, Oracle, and/or Microsoft SQL environments. </li>\n<li>Familiarity with the design and programming of relational database applications. </li>\n<li>Familiarity with MARC, JSON, XML</li>\n<li>Ability to perform systems analysis and programming independently, under general direction. </li>\n<li>Strong verbal and written communication skills. </li>\n<li>Must be able to balance priorities and meet deadlines on multiple tasks.</li>\n<li>Commitment to supporting and working in a diverse environment.\nPreferred Qualifications: </li>\n<li>Previous experience with automation applications in a library environment strongly preferred.</li>\n</ul><p>Submit an application on-line at <a href=\"https://jobs.columbia.edu/applicants/Central?quickFind=167631\">https://jobs.columbia.edu/applicants/Central?quickFind=167631</a></p>\n\n<p>Columbia University is an Equal Opportunity/Affirmative Action employer and strongly encourages individuals of all backgrounds and cultures to consider this position.</p>",
+        "createdAt": "2022-02-24T03:21:40.371Z",
+        "updatedAt": "2022-02-24T03:21:40.371Z",
+        "publishedAt": "2022-02-24T03:21:40.370Z",
+        "location": "New York, NY",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1100,
+            "attributes": {
+              "name": "Columbia University",
+              "createdAt": "2022-02-24T03:21:39.755Z",
+              "updatedAt": "2022-02-24T03:21:39.755Z",
+              "publishedAt": "2022-02-24T03:21:39.753Z",
+              "url": "",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 611,
+      "attributes": {
+        "title": "Systems Engineer, Libraries Information Technology ",
+        "description": "<p>Columbia University Libraries seeks a motivated and collaborative Systems Engineer to join the Unix Systems Group in the Libraries Information Technology (LIT) division. \nReporting to the Senior Systems Engineer, the Systems Engineer will design, develop and deploy Unix server and storage systems and perform maintenance and security updates as required. Additionally, the incumbent will document and provide support for a variety of innovative projects and services within the Libraries as well as collaborate on specialized projects with various departments across the organization as needed. \nDetailed responsibilities include but are not limited to: </p>\n\n<ul>\n<li>Designing, installing, documenting, monitoring, optimizing, and maintaining Linux (primarily CentOS) servers.</li>\n<li>Monitoring, troubleshooting, and documenting some Linux servers maintained by CUIT.</li>\n<li>Modifying, testing, implementing, troubleshooting, and documenting both vendor-supplied and in-house applications on servers.</li>\n<li>Managing security policies, access permissions and disaster recovery for mission-critical data on servers and desktop systems.</li>\n<li>Collaborating on projects and related activities with other units, Columbia University IT (CUIT), other schools and departments at Columbia, and outside institutions.</li>\n<li>Performing other duties as assigned.</li>\n</ul><p>As one of the world's leading research universities, Columbia University in the City of New York provides outstanding opportunities to work and grow in a dynamic multicultural intellectual community. The Columbia University Libraries comprises a diverse, collegial and engaged staff committed to furthering the University’s teaching and research mission through innovation, leadership, collaboration and professionalism.</p>\n\n<p>Minimum Qualifications: </p>\n\n<ul>\n<li>Bachelor's degree and a minimum three years’ related experience or the equivalent combination of education and experience.</li>\n<li>Knowledge of Unix/Linux environment. </li>\n<li>Strong verbal and written communication skills. </li>\n<li>Knowledge of programming principles and at least one higher-level programming language. </li>\n<li>Must be able to balance priorities and meet deadlines on multiple tasks.</li>\n<li>Commitment to supporting and working in a diverse environment.\nPreferred Qualifications: </li>\n<li>Experience with CentOS, cloud services (AWS), virtualization (xen, vmware), configuration management (Saltstack, Ansible), Python, relational databases, storage management, source control (git), web services (nginx/apache, haproxy, varnish).</li>\n</ul><p>Submit an application on-line at <a href=\"https://jobs.columbia.edu/applicants/Central?quickFind=167618\">https://jobs.columbia.edu/applicants/Central?quickFind=167618</a></p>\n\n<p>Columbia University is an Equal Opportunity/Affirmative Action employer and strongly encourages individuals of all backgrounds and cultures to consider this position.</p>",
+        "createdAt": "2022-02-24T03:21:40.374Z",
+        "updatedAt": "2022-02-24T03:21:40.374Z",
+        "publishedAt": "2022-02-24T03:21:40.373Z",
+        "location": "New York, NY",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1100,
+            "attributes": {
+              "name": "Columbia University",
+              "createdAt": "2022-02-24T03:21:39.755Z",
+              "updatedAt": "2022-02-24T03:21:39.755Z",
+              "publishedAt": "2022-02-24T03:21:39.753Z",
+              "url": "",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 612,
+      "attributes": {
+        "title": "UI Developer Front End (AngularJS)",
+        "description": "<p>Company Description</p>\n\n<p>Vlocity is a fast-growing enterprise applications company focused on bringing industry-specific business processes to the cloud. With 300 employees around the world and customers on six continents, Vlocity has been the fastest-growing independent software vendor on the Salesforce platform for two years running. Vlocity is currently shipping version 15 of its application suite, and has raised over $100MM in capital from investors including Salesforce.com, Accenture and Sutter Hill Ventures.</p>\n\n<p>Vlocity develops software to help communications, media &amp; energy providers, insurance carriers and government agencies digitally engage customers through their channels and devices of choice. We serve dozens of the world’s Fortune 5000 companies including Sky Italia, Telecom Italia, TELUS, 3, Telecom Argentina, Cellcom, New York Life, Farmers Insurance, Harvard Pilgrim, and Anthem. Our solutions run on our customers’ web sites, in their contact centers and on the mobile devices of their service and sales professionals – providing a compelling, modern, omnichannel experience. Despite the complexity and sophistication of the enterprise business processes we enable, we believe the user experience should be as simple and compelling as a consumer application.</p>\n\n<p>Job Description</p>\n\n<p>Vlocity Inc is picking up speed and looking to expand its Customer Success team by hiring talented and enthusiastic UI Developers.</p>\n\n<p>In the cloud, presentation is definitely king. Our customers expect easy-to-use applications that drive down agent handling times, enhance the user experience and integrate seamlessly with their other systems and tools.</p>\n\n<p>And that’s where you come in! You’ll help us bring the ‘wow factor’ to our customer deployments - enhancing the native UI of the Vlocity product to deliver user friendly, innovative and beautiful web and mobile apps that are tailored and branded for the specific customer.</p>\n\n<p>Leveraging the powerful capabilities of the Vlocity toolkit, as well as the increasing palette of web development tools, you’ll be responsible for designing and implementing front-end functional deliverables that are highly usable, scalable, extensible, and maintainable.</p>\n\n<p>You will be working closely with the customer to optimize and customize their UI flows, web design and front end development.</p>\n\n<p>And you’ll be working with our Product and Engineering teams to help them drive innovation into future releases of Vlocity products.</p>\n\n<p>Qualifications</p>\n\n<ul>\n<li><p>You’ll have 3+ years’ experience of working on deployment teams, ideally using Agile development techniques.</p></li>\n<li><p>You’ll have a proven track record of customer-centric development, with an emphasis on delivery</p></li>\n<li><p>You’ll be passionate about developing apps that are both eye-catching and intuitive</p></li>\n<li><p>Ideally, you will have extensive experience of building applications in at least one of our industries - telecommunications, media, insurance, healthcare or public sector.</p></li>\n<li><p>You’ll be a self-starter, adept at picking up new skills and technologies, and eager to break new ground.</p></li>\n<li><p>You’ll have excellent communication skills, equally comfortable with crafting emails as leading a white-board discussion with customers, or delivering a functional demo</p></li>\n<li><p>You’ll have the vision to help us take our company to the next level.</p></li>\n</ul><p>Technical Skills</p>\n\n<ul>\n<li><p>AngularJS</p></li>\n<li><p>HTML5, CSS3, JavaScript and more</p></li>\n<li><p>Salesforce (Visualforce, Apex, Lightning)</p></li>\n<li><p>Desired Certifications / Qualifications</p></li>\n<li><p>Bachelors or Masters degree in Computer Science, Software Engineering or a related field</p></li>\n<li><p>Salesforce Platform Developer / Platform App Builder</p></li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.378Z",
+        "updatedAt": "2022-02-24T03:21:40.378Z",
+        "publishedAt": "2022-02-24T03:21:40.377Z",
+        "location": "San Francisco, CA",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1101,
+            "attributes": {
+              "name": "Vlocity",
+              "createdAt": "2022-02-24T03:21:39.765Z",
+              "updatedAt": "2022-02-24T03:21:39.765Z",
+              "publishedAt": "2022-02-24T03:21:39.764Z",
+              "url": "https://www.vlocity.com",
+              "logo": "http://github-jobs.s3.amazonaws.com/d5227984-2226-11e8-8f9c-918baba618c4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 613,
+      "attributes": {
+        "title": "Senior Web Applications Engineer (Rails+)",
+        "description": "<p>As a Senior full-stack engineer at Sharethrough you’ll build out our native monetization software suite used by top publishers to connect with brands on the open web, powering critical revenue behind companies like Disney, CNN, VICE, and CBSi.  We believe that advertising can be better and you'll help make that happen.  You'll be a key contributor to our Rails-based server side platform and multiple backend integrations that interface with systems varying from ad serving to data warehousing.</p>\n\n<p><strong>What You'll Be Doing</strong></p>\n\n<ul>\n<li>\n<strong>Having a say:</strong> You’ll participate in the problem definition and solution process with a diverse group of engineers, designers and business owners from around the company.</li>\n<li>\n<strong>Proper engineering:</strong> Writing Rails and JS that is performant, well-tested, and easy to maintain.</li>\n<li>\n<strong>Technical heavy lifting:</strong> You’ll architect and implement major components of an ambitious technical roadmap.</li>\n<li>\n<strong>Deploying code on your first day:</strong> We push to production on every commit via our continuous integration and deployment pipeline.</li>\n</ul><p><strong>Let's Talk If</strong></p>\n\n<ul>\n<li>\n<strong>You’ve shipped software:</strong> You have production experience with a nice bit of our stack: Ruby, Rails, Sidekiq, React, Node.js, etc. and for the parts you don’t, you’re excited to learn.</li>\n<li>\n<strong>You care about code:</strong> You take pride in development, and have a deep understanding of how to write high quality, maintainable, extensible software.</li>\n<li>\n<strong>You want to derive meaning from what you do:</strong> Every engineer here is excited to understand what problem they’re solving, why they’re solving it and who they’re solving it for.</li>\n</ul><p><strong>Why You'll Love Working at Sharethrough</strong></p>\n\n<ul>\n<li>\n<strong>Values-driven culture:</strong> You’d be walking into a welcoming and diverse environment that is built around action, optimism, purpose and transparency.  We have a fun, supportive culture, and firmly believe in what we’re doing.</li>\n<li>\n<strong>Marry the problem, not the solution:</strong> We’re constantly re-evaluating our technical infrastructure to deliver faster, better, and more reliable software.</li>\n<li>\n<strong>Twenty percent time:</strong> One day a week you’ll have the opportunity to dig deeper and explore new technologies, frameworks, etc. This is time set aside for you and the team as an investment in you, and you’ll have the chance to exchange learnings with your team.</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.382Z",
+        "updatedAt": "2022-02-24T03:21:40.382Z",
+        "publishedAt": "2022-02-24T03:21:40.381Z",
+        "location": "San Francisco",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1102,
+            "attributes": {
+              "name": "Sharethrough",
+              "createdAt": "2022-02-24T03:21:39.774Z",
+              "updatedAt": "2022-02-24T03:21:39.774Z",
+              "publishedAt": "2022-02-24T03:21:39.774Z",
+              "url": "http://Sharethrough",
+              "logo": "http://github-jobs.s3.amazonaws.com/e0508206-6bc1-11e5-89ca-4c0b59d838c7.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 614,
+      "attributes": {
+        "title": "Backend Software Engineer - Java",
+        "description": "<p><strong>Company Description</strong></p>\n\n<p>At Netcentric, we come to work every day knowing we’re part of the solution to the most complex challenges brands have ever faced: digital transformation. Consumer expectation of brands is increasing in a world that is more connected and fast-paced.</p>\n\n<p>Netcentric is a dynamic and innovative service provider with a unique culture. We empower our employees to use their creativity, looking beyond tools and technology to unlock the full potential of the Adobe Experience Cloud, so that we can deliver visionary digital marketing solutions for the world’s most recognized brands.</p>\n\n<p>As part of the Cognizant Digital Business, we reap the benefits of combined expertise and access to multidisciplinary teams, forging ahead to become a leading customer experience player in Europe.</p>\n\n<p>Our teams are based in some of the world’s most exciting cities - in Zurich, Munich, Berlin, Frankfurt, Dresden, Barcelona, Bucharest, London and Amsterdam. In all of our offices, you will find a culture that embraces over 43 different nationalities. You will also find some amazing views, fancy kitchens and cozy breakout areas for a bit of rest and relaxation.</p>\n\n<p>And oh, did we mention that we empower employees to make meaningful decisions at work through Holacracy?</p>\n\n<p><strong>Job Description</strong>\n<strong>Who are we looking for?</strong></p>\n\n<p>We are looking for a Software Engineer who loves web development and loves working with open source frameworks. If you are a team player with a passion for Java, who is willing to develop and learn - keep on reading! Netcentric will feel like home to you if you like to work in a fun, multicultural environment and like to be challenged every day.</p>\n\n<p>Netcentric is powered by an international team of skilled, social people who are all about building innovative digital marketing solutions in the Adobe Experience Cloud. We are a responsive organization that enables everyone to take initiative and contribute to the success of our projects and the company through Holacracy. We focus on technology, delivering quality work and supporting our customers.</p>\n\n<p><strong>Qualifications</strong>\n<strong>What do we require?</strong></p>\n\n<ul>\n<li> Being a team player</li>\n<li> Deep knowledge and experience with Java based web projects (JEE, Servlets)</li>\n<li> Worked with building tools like Maven</li>\n<li> Version control tools, GIT knowledge </li>\n<li> Passionate about modern web technologies</li>\n<li> Experience developing RESTful Web Services</li>\n<li> Strong verbal and written English language skills</li>\n</ul><p><strong>What makes us smile when looking at your profile …</strong></p>\n\n<ul>\n<li> Hands-on experience with any kind of content management (including open source).</li>\n<li> Design patterns and clean code</li>\n<li> Open Source Frameworks especially Apache Felix, Apache Sling, Apache Jackrabbit</li>\n<li> Understanding of OSGi with Declarative Services</li>\n<li> Understanding of the HTTP protocol</li>\n<li> Knowledge of HTML, CSS and JavaScript ( ExtJS, jQuery and AngularJS)</li>\n<li> Experience with unit testing (TDD makes us even happier)</li>\n<li> Capacity to identify requirements and define technical solutions</li>\n<li> Task management, bug tracking, and wiki-based documentation tools like JIRA</li>\n<li> Additional language skills, including German or Spanish, would be an asset</li>\n<li> Eligibility to work within the EU and/or Switzerland</li>\n</ul><p><strong>Additional Information</strong></p>\n\n<p><strong>How we work:</strong></p>\n\n<ul>\n<li> A proactive mindset, ability to share our ideas and bring them to life\nEnthusiasm</li>\n<li> We have open minds always looking for continuous improvement</li>\n<li> We are not afraid of giving and receiving feedback</li>\n</ul><p><strong>at Netcentric you get:</strong></p>\n\n<ul>\n<li> Permanent contract</li>\n<li> Centrally located office in Timpuri Noi with great fitout and standing desks</li>\n<li> Flexible working hours and possibility of home office, respecting project needs</li>\n<li> Apple work equipment</li>\n<li> Customer base: large multinational companies</li>\n<li> International and dynamic team</li>\n<li> Travel to customers and other locations in alignment with project needs</li>\n<li> Private medical subscription</li>\n<li> Sponsored Gym Membership (WorldClass/ 7Card)</li>\n<li> Yearly travel insurance</li>\n<li> 2 days Onboarding in one of our NC Offices across Europe</li>\n<li> Off-site company events, including our annual company summit</li>\n<li> Daily delivered fresh fruits</li>\n<li> A large variety of drinks (coffee, water, natural soft drinks) at the office</li>\n<li> Training, certification and conference attendance based on personal development goals</li>\n<li> Micro Bonus system (bonus.ly)</li>\n<li> Vacation: 22 days + December 24th and 31st + 1 additional day per calendar year in the company (maximum 30 days/year)</li>\n<li> Sick days: 3 per year (days you are sick, at home, but do not need to bring a doctors note)</li>\n<li> Referral bonus</li>\n<li> Everyone has a voice, we are a Holacracy organization</li>\n</ul><p>And much more...!</p>",
+        "createdAt": "2022-02-24T03:21:40.384Z",
+        "updatedAt": "2022-02-24T03:21:40.384Z",
+        "publishedAt": "2022-02-24T03:21:40.384Z",
+        "location": "Bucharest",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1103,
+            "attributes": {
+              "name": "Netcentric",
+              "createdAt": "2022-02-24T03:21:39.784Z",
+              "updatedAt": "2022-02-24T03:21:39.784Z",
+              "publishedAt": "2022-02-24T03:21:39.783Z",
+              "url": "https://www.netcentric.biz/careers.html",
+              "logo": "http://github-jobs.s3.amazonaws.com/43c9d514-2220-11e8-948c-2aacabb234e7.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 615,
+      "attributes": {
+        "title": "Software Engineer - Fullstack",
+        "description": "<p>Company Description</p>\n\n<p>Vlocity is a fast-growing enterprise applications company focused on bringing industry-specific business processes to the cloud. With 300 employees around the world and customers on six continents, Vlocity has been the fastest-growing independent software vendor on the Salesforce platform for two years running. Vlocity is currently shipping version 15 of its application suite, and has raised over $100MM in capital from investors including Salesforce.com, Accenture and Sutter Hill Ventures.</p>\n\n<p>Vlocity develops software to help communications, media &amp; energy providers, insurance carriers and government agencies digitally engage customers through their channels and devices of choice. We serve dozens of the world’s Fortune 5000 companies including Sky Italia, Telecom Italia, TELUS, 3, Telecom Argentina, Cellcom, New York Life, Farmers Insurance, Harvard Pilgrim, and Anthem. Our solutions run on our customers’ web sites, in their contact centers and on the mobile devices of their service and sales professionals – providing a compelling, modern, omnichannel experience. Despite the complexity and sophistication of the enterprise business processes we enable, we believe the user experience should be as simple and compelling as a consumer application.</p>\n\n<p>Job Description</p>\n\n<p>Vlocity, Inc. is recruiting full stack application developers to join our fast growing startup. These developers will have the unique opportunity to shape and create Vlocity's vertical apps from the ground up built on the Salesforce Platform.</p>\n\n<p>As an early developer, you will be responsible for designing and implementing product requirements that are highly usable, scalable, extensible, and maintainable, in large part on the Force.com platform. You will work in a highly agile environment, with product managers, engineers and customers, as well as with our leadership team, using iterative and test-driven design methods.</p>\n\n<p>You will be developing modern, web-based applications for the Salesforce1 Platform using Visualforce, Apex, Javascript, HTML/CSS, and other technologies. An understanding of relational &amp; NoSql databases is a plus.</p>\n\n<p>We are going to build our industry apps on modern technology stacks. Force.com and Salesforce1 will be our cloud-based CRM platform. We will add additional technology stacks as needed and you'll be part of that analysis and development process.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li><p>Design and develop products in Visualforce, Apex, SalesForce1, Javascript, HTML/CSS, and related technologies.</p></li>\n<li><p>Object and entity modelling on Force.com platform.</p></li>\n<li><p>Write create clean, effective code for simple or complex user tasks.</p></li>\n<li><p>Work in an agile, rapid development and prototyping environment where effective communication is paramount.</p></li>\n<li><p>Contribute to building a positive, can-do, high-performance culture.Experience with Force.com and the SalesForce1 platform is a plus. </p></li>\n</ul><p>Experience</p>\n\n<ul>\n<li><p>3+ years of experience in software development.</p></li>\n<li><p>Experience with Force.com and the SalesForce1 platform is a plus.</p></li>\n<li><p>Experience building web-based user interfaces, with a deep understanding of HTML, Javascript, and CSS.</p></li>\n<li><p>Experience with and knowledge of relational databases.</p></li>\n<li><p>Experience and desire to work within a fast-paced, iterative development environment</p></li>\n<li><p>Experience with Agile development is a strong plus.</p></li>\n</ul><p>Technical Skills</p>\n\n<ul>\n<li><p>Excellent understanding of Object-Oriented Programming patterns &amp; experience with OO languages (Java, Ruby, Python, Scala etc) </p></li>\n<li><p>Familiarity with JavaScript libraries such as jQuery, AngularJS, Backbone  </p></li>\n<li><p>Desired Certifications / Qualifications</p></li>\n<li><p>Stellar academic background</p></li>\n<li><p>Bachelor degree in computer science or similar engineering discipline </p></li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.386Z",
+        "updatedAt": "2022-02-24T03:21:40.386Z",
+        "publishedAt": "2022-02-24T03:21:40.386Z",
+        "location": "Bengaluru, India",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1101,
+            "attributes": {
+              "name": "Vlocity",
+              "createdAt": "2022-02-24T03:21:39.765Z",
+              "updatedAt": "2022-02-24T03:21:39.765Z",
+              "publishedAt": "2022-02-24T03:21:39.764Z",
+              "url": "https://www.vlocity.com",
+              "logo": "http://github-jobs.s3.amazonaws.com/d5227984-2226-11e8-8f9c-918baba618c4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 616,
+      "attributes": {
+        "title": "Senior Software Engineer - Python",
+        "description": "<p>We are looking for a highly experienced Senior Software Engineer with strong commercial experience of Python to build and maintain our core Python based platforms and services, in particular Pole Star's market-leading Fin Tech/Reg Tech products. You'll work in a talented and interdisciplinary team, with a strong creative culture, and help us deliver high impact work. You will work closely with all facets in our Boston and London offices.</p>\n\n<p>Would you like to:</p>\n\n<ul>\n<li>       Design, build, test and document software and web applications in Python</li>\n<li>       Find and identify new opportunities to fine-tune and optimize applications' performance </li>\n<li>       Support formal Quality Assurance and resolve test defects</li>\n<li>       Create services and applications utilizing various programming languages </li>\n<li>       Identify production and non-production application issues</li>\n</ul><p>Would you like to work for an established, fun and interesting Company?:\nWe provide tracking and monitoring services to the global maritime industry from our headquarters in London, with other offices in the maritime hubs of Boston, Panama, Hong Kong, Singapore and Australia.\nWe run provide and manage data centres for 46 governments worldwide, we monitor 40,000 ships on behalf of 1,300 clients located in over 90 countries.\nPole Star continues to experience strong growth and sustained profitability. The company is among Britain’s fastest growing private technology companies and was ranked in The Sunday Times Tech Track 100 league table. We are a privately owned UK Company and have a multinational team of 100 people, fluent in over 24 languages.</p>\n\n<p>Skills &amp; requirements\nYour essential skills and experience:</p>\n\n<ul>\n<li>       Commercial experience working in a fast paced, Agile (Scrum or similar) software</li>\n<li>       development environment</li>\n<li>       Four or more years of solid commercial Python experience</li>\n<li>       JSON, REST, SOAP and RESTful Services and API’s</li>\n<li>       Database and SQL knowledge, PostgreSQL, Oracle, PostGIS,</li>\n<li>       Solid commercial Linux/Unix knowledge (Redhat/CentOS/Fedora)</li>\n<li>       Jenkins, CI integration</li>\n<li>       SQS, RabbitMQ, Redis experience</li>\n<li>       Experience in migrating/updating legacy systems (e.g. Python 2.x to 3)</li>\n<li>       A strong drive and interest to learn new technologies quickly</li>\n<li>       Bachelor’s or Master’s degree in Computer Science, Engineering, or related field</li>\n</ul><p>It would be ideal if you also had experience in: </p>\n\n<ul>\n<li>       Web development: HTML (HTML5 &amp; CSS) and XML/XSL</li>\n<li>       JIRA., other Atlassian products</li>\n<li>       Knowledge of Geo-Spatial technology or GeoServer</li>\n<li>       AWS, AWS RDS</li>\n<li>       Docker</li>\n</ul><p>Company Perks and Benefits:</p>\n\n<ul>\n<li>      Competitive Salary</li>\n<li>      3x salary life assurance cover</li>\n<li>      25 days annual leave + UK public holidays</li>\n<li>      5% Contributory pension scheme</li>\n<li>      Active professional development and opportunities to attend conferences here and abroad</li>\n<li>      Private Health Insurance</li>\n<li>      Dental Insurance</li>\n<li>      Refer a friend recruitment bonus scheme</li>\n<li>      Business expenses</li>\n<li>      Annual Season Ticket Loan for your commute</li>\n<li>      Subsidised Gym Membership</li>\n<li>      Childcare Vouchers</li>\n<li>      Daily fruit baskets and cold pressed juices</li>\n<li>      On-site yoga classes and 5-aside football</li>\n<li>      Annual health-checks<br>\n</li>\n<li>      Exclusive staff discount on shopping &amp; dining at Westfield, London W12</li>\n<li>      Discount online benefit portal, offering a wide range of discounts for high street retailers</li>\n<li>      Ability to buy and sell holidays</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.389Z",
+        "updatedAt": "2022-02-24T03:21:40.389Z",
+        "publishedAt": "2022-02-24T03:21:40.388Z",
+        "location": "London",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1104,
+            "attributes": {
+              "name": "Pole Star Space Applications",
+              "createdAt": "2022-02-24T03:21:39.794Z",
+              "updatedAt": "2022-02-24T03:21:39.794Z",
+              "publishedAt": "2022-02-24T03:21:39.793Z",
+              "url": "https://www.polestarglobal.com/",
+              "logo": "http://github-jobs.s3.amazonaws.com/4388c24c-221e-11e8-8d92-574c93808f15.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 617,
+      "attributes": {
+        "title": "Expert Technical Quality Engineer",
+        "description": "<p><strong>WHY DO WE LOVE COMING TO WORK EVERY DAY?</strong></p>\n\n<p>With over 10,000 superstars across 48 different countries globally, it is hard not to be inspired every single day.  At Finastra we celebrate in global knowledge sharing, diversity and an opportunity to make a difference for each other and for our customers.</p>\n\n<p>We are on a journey.  After bringing two global Fintech leaders together in June 2017, Finastra has truly recognized the opportunity and power we have, by combining our expertise, successes and passion together. Whether it is in a collaboration hub or innovating with colleagues across our global landscape, we are one team creating a network of talent and creativity in a stimulating environment, to do what we can to make a difference for our customers. </p>\n\n<p>Our people are leaders in their role and are always looking for new ways to help our customers grow, compete and optimize their business.  From a graduate Software Engineer to an experienced Sales Executive – we are looking for personal leadership and people with the appetite to understand the markets and customers we serve. We drive  innovation that challenges the status quo and feel proud of the positive differences that we make every day.  We recognize talent and provide a work environment where leaders can drive results, develop and grow their careers.\nSuccess is what you do, success is what we achieve, together.<br>\nThe future of Finance is open – combine your talents with Finastra opportunities to create an exciting career with us.</p>\n\n<p>For more information, visit Finastra.com</p>\n\n<p><strong>Required Skills &amp; Experience</strong></p>\n\n<ul>\n<li>Strong understanding of performance testing methodologies best practices</li>\n<li>Strong knowledge of scripting languages ( Powershell would be a plus)</li>\n<li>Good knowledge of Continues integration process and tools ( Jenkins would be a plus)</li>\n<li>Good knowledge of database technologies such as Oracle</li>\n<li>Strong knowledge of SQL</li>\n<li>Passionate about technologies and interested in testing &amp; testing tools</li>\n<li>Able to quickly understand new concepts</li>\n<li>Possess analytical thinking, be detail oriented and well-organized</li>\n<li>Be able to communicate effectively with persons holding different roles</li>\n<li>Act both as a team player and self-learner</li>\n<li>Good written and spoken English</li>\n<li>(nice to have) Experience in development and maintenance of automated software framework</li>\n<li>(nice to have) Experience with performance testing tools ( Load Runner , Jmeter)</li>\n<li>(nice to have) Experience with automation support (incident management)</li>\n<li>(nice to have) Experience in working with distributed version control systems like GIT</li>\n<li>(nice to have) Experience in a global working environment</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.392Z",
+        "updatedAt": "2022-02-24T03:21:40.392Z",
+        "publishedAt": "2022-02-24T03:21:40.391Z",
+        "location": "Bucharest",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1105,
+            "attributes": {
+              "name": "Finastra",
+              "createdAt": "2022-02-24T03:21:39.803Z",
+              "updatedAt": "2022-02-24T03:21:39.803Z",
+              "publishedAt": "2022-02-24T03:21:39.803Z",
+              "url": "https://www.finastra.com/careers",
+              "logo": "http://github-jobs.s3.amazonaws.com/865de188-221e-11e8-8579-75bee26ff356.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 618,
+      "attributes": {
+        "title": "Software Engineer",
+        "description": "<p>Company Description</p>\n\n<p>Vlocity is a fast-growing enterprise applications company focused on bringing industry-specific business processes to the cloud. With 300 employees around the world and customers on six continents, Vlocity has been the fastest-growing independent software vendor on the Salesforce platform for two years running. Vlocity is currently shipping version 15 of its application suite, and has raised over $100MM in capital from investors including Salesforce.com, Accenture and Sutter Hill Ventures.</p>\n\n<p>Vlocity develops software to help communications, media &amp; energy providers, insurance carriers and government agencies digitally engage customers through their channels and devices of choice. We serve dozens of the world’s Fortune 5000 companies including Sky Italia, Telecom Italia, TELUS, 3, Telecom Argentina, Cellcom, New York Life, Farmers Insurance, Harvard Pilgrim, and Anthem. Our solutions run on our customers’ web sites, in their contact centers and on the mobile devices of their service and sales professionals – providing a compelling, modern, omnichannel experience. Despite the complexity and sophistication of the enterprise business processes we enable, we believe the user experience should be as simple and compelling as a consumer application.</p>\n\n<p>Job Description</p>\n\n<p>Vlocity, Inc. is recruiting full stack application developers to join our fast growing team.</p>\n\n<p>You will be responsible for designing and implementing product requirements that are highly usable, scalable, extensible, and maintainable, in large part on the Salesforce platform. You will work in a highly agile environment, with product managers, engineers and customers, as well as with our leadership team, using iterative and test-driven design methods.</p>\n\n<p>You will be developing modern, web-based applications for the Salesforce Platform using Apex, Javascript, HTML/CSS, and other technologies. An understanding of relational databases is a plus.</p>\n\n<p>Responsibilities</p>\n\n<ul>\n<li><p>Stellar academic background, Bachelor degree or equivalent experience required, specializing in computer science or similar engineering discipline.</p></li>\n<li><p>Excellent understanding of data structures, object-oriented design patterns &amp; experience with OO languages like Java.</p></li>\n<li><p>Experience with and knowledge of relational databases.</p></li>\n<li><p>Experience with Force.com and the Salesforce platform is a plus.</p></li>\n<li><p>Experience and desire to work within a fast-paced, iterative development environment; experience with Agile development is a strong plus.</p></li>\n</ul><p>Experience</p>\n\n<ul>\n<li><p>Minimum 2 years experience developing software in a product environment. </p></li>\n<li><p>Experience with Force.com and the SalesForce1 platform is a plus.</p></li>\n<li><p>Experience building web-based user interfaces, with a deep understanding of HTML, Javascript, and CSS.</p></li>\n<li><p>Experience with and knowledge of relational databases.</p></li>\n<li><p>Experience and desire to work within a fast-paced, iterative development environment</p></li>\n<li><p>Experience with Agile development is a strong plus.</p></li>\n</ul><p>Technical Skills</p>\n\n<ul>\n<li><p>Excellent understanding of Object-Oriented Programming patterns &amp; experience with OO languages (Java, Ruby, Python, Scala etc) </p></li>\n<li><p>Familiarity with JavaScript libraries such as jQuery, AngularJS, Backbone  </p></li>\n<li><p>Desired Certifications / Qualifications</p></li>\n<li><p>Stellar academic background</p></li>\n<li><p>Bachelor degree in computer science or similar engineering discipline </p></li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.400Z",
+        "updatedAt": "2022-02-24T03:21:40.400Z",
+        "publishedAt": "2022-02-24T03:21:40.399Z",
+        "location": "San Francisco, CA",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1101,
+            "attributes": {
+              "name": "Vlocity",
+              "createdAt": "2022-02-24T03:21:39.765Z",
+              "updatedAt": "2022-02-24T03:21:39.765Z",
+              "publishedAt": "2022-02-24T03:21:39.764Z",
+              "url": "https://www.vlocity.com",
+              "logo": "http://github-jobs.s3.amazonaws.com/d5227984-2226-11e8-8f9c-918baba618c4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 619,
+      "attributes": {
+        "title": "Mobile Principal Software Engineer",
+        "description": "<p>CBRE is looking for a mobile principal software engineer with experience developing, architecting and implementing enterprise-level mobile solutions. This role includes both hands-on development as well as helping implement CBRE's broader mobile strategy. Most development is cross platform focused, using Xamarin, but may also include other development approaches as well as tools/languages.  </p>\n\n<p>RESPONSIBILITIES:</p>\n\n<p>The design and development of new mobile software or extensive software revisions. </p>\n\n<p>Participating in defining product requirements, creating high-level architectural specifications, ensuring feasibility, functionality, and integration with existing systems/platforms.</p>\n\n<p>Designing and tuning systems for scalability, performance, and high availability.\nWorking with strategic vendors to develop implementation strategies, best practices, and architectures.</p>\n\n<p>Working with and leading development teams on implementing methodologies and standard development practices.</p>\n\n<p>Coordinating and assigning tasks to co-workers within a work unit and/or project team.</p>\n\n<p>Assessing the quality of others' work products, performing peer reviews.\nParticipating on an agile scrum team.</p>\n\n<p>QUALIFICATIONS:</p>\n\n<p>BA/BS degree in Computer Science or related discipline or equivalent professional experience.\n5 - 7 years of experience with software development, design, and testing.</p>\n\n<p>2+ years developing and architecting enterprise mobile solutions.</p>\n\n<p>Proficient in Xamarin and C#, as well as other mobile libraries &amp; frameworks.</p>\n\n<p>Experience with HTML5, XML, JSON, and Web Services.</p>\n\n<p>Experience with mobile optimized/optimization frameworks, methods and tools (jQuery Mobile, ReactJS, Responsive Design, Single Page Applications).</p>\n\n<p>Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.</p>\n\n<p>Excellent interpersonal skills, both written and verbal, necessary to interact with personnel in different functional groups.</p>\n\n<p>Oversee 3rd party vendor application development (local &amp; off-shore).</p>\n\n<p>Work equally effectively refining details optimizing a user's experience and architecting scalable reliable systems.</p>\n\n<p>Develop unit tests, integration tests, and useful code documentation.</p>\n\n<p>Experience leading small team of developers, performing code reviews, \nimplementing best practices.</p>\n\n<p>Experience with mobile ALM practices and technologies.</p>\n\n<p>Experience with MDM, deployment processes and options.</p>\n\n<p>Experience with Android and/or iOS Mobile development.</p>\n\n<p>Possess deep understanding of SDLC and other industry standard development practices.</p>\n\n<p>Experience evaluating new technologies and device platforms.</p>\n\n<p>Experience providing feasibility assessments and accurate estimates for project implementations.</p>\n\n<p>Equal Opportunity and Affirmative Action Employer\nWomen/Minorities/Persons with Disabilities/US Veterans</p>\n\n<p>JOB REQUIREMENTS: </p>\n\n<p>To apply for this position, please copy and paste the following link into your browser address bar: \n<a href=\"https://cbre.contacthr.com/60832433\">https://cbre.contacthr.com/60832433</a></p>",
+        "createdAt": "2022-02-24T03:21:40.403Z",
+        "updatedAt": "2022-02-24T03:21:40.403Z",
+        "publishedAt": "2022-02-24T03:21:40.402Z",
+        "location": "Dallas, TX",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1106,
+            "attributes": {
+              "name": "CBRE",
+              "createdAt": "2022-02-24T03:21:39.813Z",
+              "updatedAt": "2022-02-24T03:21:39.813Z",
+              "publishedAt": "2022-02-24T03:21:39.812Z",
+              "url": "",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 620,
+      "attributes": {
+        "title": "TECHNICAL PRODUCT LEAD",
+        "description": "<p><strong>DESCRIPTION:</strong>\nClevertech is looking for a Tech Lead to join our worldwide team. Clevertech looks for craftsmen developers who take ownership of their code. You can deliver quickly while being clever to avoid missteps.</p>\n\n<p>You have an effective positive attitude that shines as you show your care about the client’s concerns as well as a colleague’s concerns. You are always learning and are a transparent communicator even when it is challenging.</p>\n\n<p>Our technical product leaders spend much of their time in the code. Develop world class software products for the most exclusive companies in the world. 75% of your time leading the technical strategy in the code; 25% of your time in meetings organizing and unlocking the other devs</p>\n\n<p>You set the mood on the team. Not only internally but also with our clients. You get excited about getting the best out of team member and have demonstrated successful product launches.</p>\n\n<p><strong>REQUIREMENTS:</strong></p>\n\n<ul>\n<li><p>7+ years of experience in software development teams. New tools are great, but fundamentals of data structures, design patterns, and programming practices are what deliver projects.</p></li>\n<li><p>Has led a product meeting that has technical implications with Fortune 500 executives sitting around a conference room table</p></li>\n<li><p>Deep knowledge of Javascript and language agnostic as we utilize other technologies such as Python, Clojure, Go, C# and on occasion Java or C++ .</p></li>\n<li><p>Well qualified applicants will have deep experiences in the latest libraries and programming techniques. You have accomplishments that showcase your capabilities.</p></li>\n<li><p>Excellent self-starter who collaborates effectively with all stakeholders, and has the ability to work in a fast-paced team.</p></li>\n</ul><p><strong>BENEFITS:</strong></p>\n\n<p><em>Own Your Time</em>\nWe are a completely remote team. That means we have a large amount of trust and a lot of flexibility. World travellers, young parents, nature lovers, and commute avoiders love working here. We also will pay for a co-working space in case you feel like working outside of your normal setting.</p>\n\n<p><em>Recharge Time</em>\nWe insist that you take recharge time. We are closed for major holidays and then require that you take at least two weeks a year to refresh.</p>\n\n<p><em>Care For Yourself</em>\nYou’ll receive a health/wellness stipend that can go towards covering medical insurance, dental insurance, or joining a gym!</p>\n\n<p><em>Focused Work</em>\nYou will work together on a dedicated team with your eye on one finish line at a time. Our teams are nimble and agile, and cover the technical range you would expect in world class product delivery teams.</p>\n\n<p><em>Learn at your Edges</em>\nWe believe in learning and provide unique programs that improve your tech skills, leadership skills and even challenge you in personal development. CleverFridays, guest speakers, mentorship opportunities and in-depth industry exposure are all on offer here. And of course, if you speak at a tech conference, we cover all expenses.</p>\n\n<p><em>Clevertech Swag</em>\nAnd keep your eye on the mail - we send out swag everywhere in the world and there are celebratory pictures of Clevertech socks, hoodies, and mugs all over slack.</p>\n\n<p>Want to learn more about Clevertech and the team? Check out <a href=\"https://youtu.be/KwOz-y4uuWk\">https://youtu.be/KwOz-y4uuWk</a></p>",
+        "createdAt": "2022-02-24T03:21:40.409Z",
+        "updatedAt": "2022-02-24T03:21:40.409Z",
+        "publishedAt": "2022-02-24T03:21:40.408Z",
+        "location": "Remote",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1107,
+            "attributes": {
+              "name": "Clevertech",
+              "createdAt": "2022-02-24T03:21:39.823Z",
+              "updatedAt": "2022-02-24T03:21:39.823Z",
+              "publishedAt": "2022-02-24T03:21:39.821Z",
+              "url": "https://clevertech.biz/",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 621,
+      "attributes": {
+        "title": "Senior Product Engineer - Ruby + JavaScript ",
+        "description": "<p>Senior Product Engineer (full-time+remote).</p>\n\n<p>Deliver value every day and have an impact on the world!</p>\n\n<p>Our mission is simple: we want to revolutionize digital catalogs. That’s why we’re dedicated to building a beautiful web app with meticulous attention to quality. Working from our office in Amsterdam, we use many technologies (JS (Node, React, Backbone, Redux), Ruby (RoR)) to change the catalog forever. We believe in getting things done, making decisions fast, and not wasting time in endless meetings. We do this by listening to our customers, checking the data, and trusting our gut.</p>\n\n<p>Everyone in our development team works together and contributes to the success of our product, including UX designer and product manager. The engineer that we’re looking for is pragmatic, loves to get things done and has a strong focus on results. We promise to get rid of everything that stands in your way so you can create your best work. If this sounds like your kind of place, it’s time to get in touch.</p>\n\n<p>Responsibilities:</p>\n\n<ul>\n<li>Performance, stability and scalability of our stack</li>\n<li>Product development</li>\n<li>Contributing to our development, product and design strategy</li>\n</ul><p>Skills:</p>\n\n<ul>\n<li>Proactively solving challenges</li>\n<li>Delivering features end to end</li>\n<li>Designing and implementing back-end and front-end architecture</li>\n<li>Deployment architecture and distributed job processing</li>\n<li>Single page JavaScript apps</li>\n<li>Cross-browser compatibility</li>\n<li>Mobile browser performance</li>\n<li>Writing specs/tests</li>\n<li>Ruby on Rails</li>\n<li>React + Redux</li>\n<li>Node.js</li>\n<li>AWS</li>\n<li>Modern JS (ES2015+)</li>\n<li>CoffeeScript</li>\n<li>Backbone.js</li>\n<li>PostgreSQL</li>\n<li>English</li>\n</ul><p>What can you expect from us?</p>\n\n<ul>\n<li>€39.6k-€55.2k gross salary per year.</li>\n<li>8% yearly holiday bonus paid every May</li>\n<li>25 paid vacation days</li>\n<li>A contract of indefinite duration</li>\n<li>Option to work remotely</li>\n<li>Free organic lunch</li>\n<li>We'll cover your travel expenses</li>\n<li>Unlimited budget for the Kindle Store and Apple App Store</li>\n<li>A remarkable company culture</li>\n<li>4 team retreats per year - check our last one <a href=\"https://youtu.be/LSzyVIhMJF8\">https://youtu.be/LSzyVIhMJF8</a>\n</li>\n<li>A great working environment in the center of Amsterdam</li>\n<li>We will challenge and support you to get the most out of your potential</li>\n<li>Equity plan (to be launched soon)</li>\n<li>30% tax ruling (for candidates outside of the NL)</li>\n<li>Visa sponsorship possibilities for candidates outside of the EU</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.412Z",
+        "updatedAt": "2022-02-24T03:21:40.412Z",
+        "publishedAt": "2022-02-24T03:21:40.411Z",
+        "location": "Amsterdam/Remote",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1108,
+            "attributes": {
+              "name": "Publitas",
+              "createdAt": "2022-02-24T03:21:39.831Z",
+              "updatedAt": "2022-02-24T03:21:39.831Z",
+              "publishedAt": "2022-02-24T03:21:39.831Z",
+              "url": "https://www.publitas.com/about-us/",
+              "logo": "http://github-jobs.s3.amazonaws.com/c904fdf0-3999-11e7-9154-369f282201cb.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 622,
+      "attributes": {
+        "title": "Solutions Architect",
+        "description": "<p><a href=\"https://citrusbyte.com\">Citrusbyte</a> is a software consultancy that believes in using simple tools to solve problems. We build custom systems for both startups and enterprises - You can see our <a href=\"https://citrusbyte.com/portfolio\">portfolio</a> for more information about our clients.</p>\n\n<p>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.</p>\n\n<p>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.</p>\n\n<p>Most of our projects are written in <strong>Ruby</strong>, so experience in this language is required, but we are looking for polyglot engineers who have a hunger for learning new languages and tools. At Citrusbyte, learning is part of the job, and you should always be able to answer the question: \"what have I learned this week?\"</p>\n\n<p>We believe that less is more and we vehemently value simplicity. This is reflected in the tools we choose to work with. For this reason we tend to avoid using big frameworks like Ruby on Rails and instead lean towards smaller tools like Sinatra, Roda or Cuba.</p>\n\n<p>We have also done projects in <strong>Elixir</strong>, <strong>Node</strong>, <strong>Go</strong>, <strong>Python</strong>, <strong>Lua</strong>, etc. And strive to learn new tools and languages everyday. We believe in always choosing the right tool for the job and we are very open minded about trying different technologies.</p>\n\n<p>As a <strong>Solutions Architect</strong>, you will have a consultative role, directly supporting our clients and our teams so we can achieve our mission. These are some of the things you'll be responsible for:</p>\n\n<h2>Responsibilities</h2>\n\n<h3>Sales</h3>\n\n<ul>\n<li>Assisting the sales team with uncovering and understanding technical requirements from our clients.</li>\n<li>Producing estimates and risk assessments for prospective projects.</li>\n<li>Preparing and delivering technical presentations to support sales.</li>\n<li>Creating artifacts to support the sales process such as prototypes, diagrams, etc.</li>\n</ul><h3>Project Kick-start and Discovery</h3>\n\n<ul>\n<li>Becoming a domain expert for the problems Citrusbyte needs to solve.</li>\n<li>Researching and documenting the client’s existing infrastructure, systems, technologies, teams and in general all the information the engineering team will need to start the project implementation phase successfully.</li>\n<li>Validating integration points into client’s systems, and validating technical hypotheses, through prototyping, tech spikes, and technical feasibility efforts.</li>\n<li>Collaborating with the rest of the team on defining a mission and strategy for the project as well as starting to delineate what the product will be.</li>\n<li>Day-to-day point of contact for all things technical with client stakeholders and client team.</li>\n<li>Guide the client through complex technology selection and platforming decisions to support a successful implementation phase.</li>\n<li>Continually educating client and client stakeholders about the benefits of Citrusbyte’s approach and process to software and solutions development.</li>\n<li>Develop strong and durable relationships with key client stakeholders and client technical/IT organization.</li>\n<li>Contributing to planning a resourcing strategy for the project, taking into consideration the required skill sets, team size, etc.</li>\n</ul><h3>Project Implementation</h3>\n\n<ul>\n<li>Lead the relationship with the client from the engineering side. Able to receive feedback about our engineering team directly and mediate if necessary when there are any conflicts.</li>\n<li>On-boarding and guiding the team throughout the client’s ecosystem (accounts, VPN, who to talk about a particular topic, etc).</li>\n<li>Contributing to design engineering solutions for our client. Stepping back and thinking about what we’re building with a focus on usability, simplicity and quality.</li>\n<li>Helping define the project technology stack and identifying the risks of the project execution plan.</li>\n<li>Ensuring that projects live up to Citrusbyte engineering quality standards.</li>\n<li>Ensuring that multiple projects across a single account adhere to consistent best practices, processes and technology stacks.</li>\n<li>Augmenting the engineering team to solve challenging and complex problems.</li>\n<li>Mentoring and coaching the team to consult with the client, so everyone becomes a trusted advisor and is empowered to take on a consultative role.</li>\n<li>Maintain strong and durable relationships with key client stakeholders and client technical/IT organization.</li>\n</ul><h3>Project Hand-off</h3>\n\n<ul>\n<li>Gathering requirements from the client and any necessary stakeholders for handing over the project.</li>\n<li>Collaborating with the team to create a successful project hand-off plan.</li>\n</ul><h3>Project Support &amp; Maintenance</h3>\n\n<ul>\n<li>Collaborating on defining a resourcing strategy for any support or maintenance commitments after the implementation phase is complete.</li>\n<li>Ensuring that our team has an effective plan for supporting the project as it grows.</li>\n</ul><h2>Job Requirements</h2>\n\n<ul>\n<li>Over 10 years of experience in software engineering.</li>\n<li>Over 5 years of experience directly consulting with clients.</li>\n<li>Proficient and experienced with at least 3 programming languages.</li>\n<li>Demonstrates continuous learning and being up to date with modern technologies.</li>\n<li>Demonstrates a strong preference for simplicity in all aspects of software development.</li>\n<li>Excellent spoken and written english level.</li>\n<li>Lives within UTC-8 and UTC-3.</li>\n</ul>",
+        "createdAt": "2022-02-24T03:21:40.420Z",
+        "updatedAt": "2022-02-24T03:21:40.420Z",
+        "publishedAt": "2022-02-24T03:21:40.419Z",
+        "location": "United States",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1109,
+            "attributes": {
+              "name": "Citrusbyte",
+              "createdAt": "2022-02-24T03:21:39.841Z",
+              "updatedAt": "2022-02-24T03:21:39.841Z",
+              "publishedAt": "2022-02-24T03:21:39.840Z",
+              "url": "https://citrusbyte.com",
+              "logo": "http://github-jobs.s3.amazonaws.com/c8200492-2198-11e8-8e57-a63f8fe1c5e3.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 623,
+      "attributes": {
+        "title": "Staff Backend Software Engineer ",
+        "description": "<p>CircleCI is looking for an experienced back end software engineer to help us in our transition to a microservices-based architecture. In this role, you will work on a cross-functional team of 5-7 engineers to iteratively deliver customer value while building features and services within our new microservice ecosystem. </p>\n\n<p>At CircleCI you will be working with a team who values trust, respect, and diversity. We are a globally distributed team working towards the common goal of being the standard bearer for continuous integration and deployment software. We are remote-friendly, and are looking for people who are passionate about helping shape software engineering best practices for the industry as a whole. While we can support a remote role anywhere you also have the option to work out of our Toronto or San Francisco office.</p>\n\n<p>To thrive in this role you are someone who works well in teams and enjoys collaborating. Furthermore, you understand the business impact of your code and enjoy incorporating the business objectives into your approach to development. You enjoy working with Product to find the best solution to the problem at hand, and can balance technical tradeoffs with delivering customer value quickly and iteratively.</p>\n\n<p><b>About CircleCI</b></p>\n\n<ul>Velocity is critical for software teams in today's competitive landscape, but maintaining speed can be difficult as apps and systems grow larger and more complex. CircleCI’s platform allows developers to rapidly release code (for web and mobile apps) they trust by automating the build, test, and deploy process. CircleCI enables developers to detect and fix bugs before they even reach customers. Thousands of leading companies including Facebook, Kickstarter, Shyp and Spotify rely on CircleCI to accelerate delivery of their code and enable developers to focus on creating business value fast.</ul><ul>\n<b>About this role:</b>\n<li>Work closely with Product to ensure delivery of high value customer facing features</li>\n<li>Comfortable designing across architectural styles to fit the needs of the business</li>\n<li>Own microservices throughout their entire lifecycle, from the first lines of code through deployment, production monitoring, and maintenance</li>\n<li>Work on cross-functional, feature-driven engineering teams</li>\n<li>Program in Clojure on a daily basis</li>\n<li>Help shape how we design, release, and maintain microservices</li>\n</ul><p><b>You have:</b></p>\n\n<ul>\n<li>6+ years of back end development experience</li>\n<li>Strong understanding of the business impact of your work</li>\n<li>Experience with microservice architectures</li>\n<li>Experience with functional programing</li>\n<li>A deep appreciation for, and abilities to support, your development with appropriate testing</li>\n</ul><p><b>You Enjoy:</b></p>\n\n<ul>\n<li>Working in a highly collaborative environment</li>\n<li>Supporting an environment that values trust, respect, and diversity</li>\n<li>Exploring different methods for efficiently delivering code and customer value</li>\n<li>Delivering value to customers</li>\n<li>Sharing your expertise and encouraging best practices</li>\n</ul><p>CircleCI is a Bay Area Best Places to Work 2016 award winner. Founded in 2011 and headquartered in beautiful downtown San Francisco with a global remote workforce, CircleCI is venture backed by Scale Venture Partners, DFJ, Baseline Ventures and Harrison Metal Capital. </p>\n\n<p>We care deeply about diversity and inclusivity. We’re hiring at all experience levels, and seek talented teammates from a wide variety of backgrounds and experiences who are equally committed to cultivating a work environment of respect and kindness. We carefully consider every applicant that takes the time to apply.</p>",
+        "createdAt": "2022-02-24T03:21:40.421Z",
+        "updatedAt": "2022-02-24T03:21:40.421Z",
+        "publishedAt": "2022-02-24T03:21:40.420Z",
+        "location": "Remote Or San Francisco ",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1097,
+            "attributes": {
+              "name": "CircleCI",
+              "createdAt": "2022-02-24T03:21:39.718Z",
+              "updatedAt": "2022-02-24T03:21:39.718Z",
+              "publishedAt": "2022-02-24T03:21:39.714Z",
+              "url": "http://www.circleci.com ",
+              "logo": "http://github-jobs.s3.amazonaws.com/e31a24d4-2257-11e8-8ff4-dccd85004d2c.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 624,
+      "attributes": {
+        "title": "Senior Software Architect",
+        "description": "<p>About Bites:</p>\n\n<p>Bites is an education technology company focused on personalized learning both within the news and traditional classroom instructional cycle. Through its two product offerings, Bites Media and Bites Labs, the company seeks to penetrate with offerings that complement each other from initial development to market offering.</p>\n\n<p>Bites is searching far and wide for an awesome Lead Software Engineer! Based in Venice, Bites is a seed funded startup that focuses on personalized learning platforms — transforming the way teachers engage and support their students. You will be building out the architecture for our product offerings and helping to build a scalable team.</p>\n\n<p>If that sounds like you, we'd love to talk to you!</p>\n\n<p>Responsibilities:\nDesign and code innovative, scalable and robust features on both the backend and the web application layers.\nParticipate in all aspects of the project lifecycle, from ideation to specification to release.\nCollaborate closely with small, nimble, cross-functional teams, product managers and designers.</p>\n\n<p>Requirements:\nA Bachelor’s degree in Computer Science or related degree.\n4+ years hands on experience in full-stack software development and architecture. Prior management/mentorship experience.\nSignificant experience with at least one of the following programming languages: Python, Ruby, C#, PHP or Javascript.\nStrong experience designing and working with relational databases (/MySQL/MSSQL).\nProficient front-end web development skills -- HTML/CSS/JS.\nStrong experience building high scale and high performance applications.\nDevOps experience building reliable applications through automated testing, continuous integration, monitoring, and analytics.\nA solid grounding in Computer Science fundamentals, data structures, algorithms, and deftness at object-oriented design and systems architecture.</p>\n\n<p>Leadership skills:\nHave an ownership mentality.\nExperienced as technical lead on a project.\nDemonstrated experience mentoring other engineers.\nProvide full-stack expertise to the engineering team.\nPassionate about best practices on code quality and performance.\nAbility to effectively communicate with technical and non-technical teams.\nAbility to measure the risk of choosing a new technology from the point of view of delivering the product on time and training the team.\nStrong work ethics and leads by example.\nIt bothers you if your software is buggy and doesn't perform optimally.</p>\n\n<p>Bonus Points:\nExperience with CSS Preprocessors (Sass or Less)\nExperience with React, Backbone or any other JavaScript frameworks a major plus.\nExperience giving technical mentorship and best practices training to peers.\nDeep understanding of Agile software development lifecycle.\nInterest and/or love of K-12 education.</p>",
+        "createdAt": "2022-02-24T03:21:40.424Z",
+        "updatedAt": "2022-02-24T03:21:40.424Z",
+        "publishedAt": "2022-02-24T03:21:40.423Z",
+        "location": "Venice, CA",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1110,
+            "attributes": {
+              "name": "Bites Media",
+              "createdAt": "2022-02-24T03:21:39.851Z",
+              "updatedAt": "2022-02-24T03:21:39.851Z",
+              "publishedAt": "2022-02-24T03:21:39.851Z",
+              "url": "http://bitesmedia.com",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 625,
+      "attributes": {
+        "title": "Researcher - Machine Learning",
+        "description": "<p>The Diagnostics &amp; Prognostics team within the SKF Research &amp; Technology Development group is responsible for generating new knowledge and technology in the field of bearing and machine monitoring. The deliverables of this team are directly supporting SKF’s journey through digital transformation and will change the way we do business. By obtaining and interpreting measurement data from bearings in the field, SKF strives for a paradigm shift from unplanned to scheduled maintenance. This enables SKF to move away from classical transactional business models to performance based service contracts.<br><br>\nTo strengthen our team in <strong>Nieuwegein </strong>we are looking for a:<br><br><strong>Researcher - Machine Learning</strong><br><br><strong>Job description</strong><br>\nIn this role, you will be working in multiple R&amp;D projects. In accordance with project needs, your main responsibilities will be (but are not limited to):</p>\n\n<ul>\n<li>Data wrangling: data transformation, feature extraction, principal component analysis and clustering</li>\n    <li>Using pattern recognition in time series (e.g. vibration, temperature) to detect anomalies</li>\n    <li>Develop technology and algorithms to make a prognosis of the remaining life of a mechanical system in operation</li>\n    <li>Develop machine learning algorithms using supervised and unsupervised learning</li>\n    <li>Collaborate with researchers in other areas such as tribology to combine physical modelling and data driven approaches (hybrid modelling)</li>\n    <li>Use automation tools for optimization of machine learning algorithms and model validation</li>\n</ul><p><br><strong>Job requirements</strong></p>\n\n<ul>\n<li>\n<strong>Masters </strong>or <strong>PhD degree </strong>in <strong>mathematics</strong>, <strong>statistics</strong>, <strong>computer science </strong>or related discipline</li>\n    <li>\n<strong>Proven record </strong>in <strong>researching </strong>and <strong>applying machine learning techniques</strong> (e.g. speech recognition, image recognition and classification)</li>\n    <li>Affinity with mechanical systems and signal processing</li>\n    <li>\n<strong>Skilled in Matlab </strong>is <strong>required</strong>, preferred would be a second programming language, like C++, Python or R</li>\n    <li>Self-driven professional and team player</li>\n    <li>Good command of <strong>English</strong>\n</li>\n</ul><p><br><strong>Our offer</strong><br>\nWe offer you the opportunity to work in an innovative and well-equipped R&amp;D environment, which is part of a large, successful company with an excellent reputation. You will join a team of well-motivated colleagues and will have a lot of international contacts. We look forward to see you develop as a professional who creates a career in SKF and we will support your steps. Of course, our employment conditions are competitive.<br><br><strong>About SKF</strong><br>\nSKF works to reduce friction, make things run faster, longer, cleaner and more safely. Doing this in the most effective, productive and sustainable way has made the SKF Group a leading global supplier of products, solutions and services within rolling bearings, seals, mechatronics, services and lubrication systems. Services include technical support, maintenance services, condition monitoring, asset efficiency optimization, engineering consultancy and training. Check out <a href=\"https://ltpx.nl/2s1z6Bv\" target=\"_blank\"><strong><a href=\"http://www.skf.com\">www.skf.com</a></strong></a> for more information about our organization.<br><br>\nIf you have any questions regarding this job posting, please contact Mr. André van IJzendoorn, tel: +31(0)30 6075835, e-mail: <a href=\"mailto:andre.van.ijzendoorn@skf.com\"><strong><a href=\"mailto:andre.van.ijzendoorn@skf.com\">andre.van.ijzendoorn@skf.com</a></strong></a><br><br><em>Acquisition is not appreciated</em>.<img alt=\"\" src=\"https://bcontrol.brockmeyer.nl/track.php?orderid=42013\"></p>",
+        "createdAt": "2022-02-24T03:21:40.425Z",
+        "updatedAt": "2022-02-24T03:21:40.425Z",
+        "publishedAt": "2022-02-24T03:21:40.424Z",
+        "location": "Nieuwegein (The Netherlands)",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1111,
+            "attributes": {
+              "name": "SKF B.V.",
+              "createdAt": "2022-02-24T03:21:39.861Z",
+              "updatedAt": "2022-02-24T03:21:39.861Z",
+              "publishedAt": "2022-02-24T03:21:39.860Z",
+              "url": "http://www.skf.com/benelux/nl/our-company/index.html",
+              "logo": "http://github-jobs.s3.amazonaws.com/c2505822-214e-11e8-8522-6dcf8a2d19b2.JPG"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 626,
+      "attributes": {
+        "title": "Director, Software R&D",
+        "description": "<p>Director, Software R&amp;D(Job Number: 3808180220)</p>\n\n<p>Description:\nJohnson &amp; Johnson Vision Surgical, part of the Johnson &amp; Johnson Family of Companies, is currently recruiting for a Director, Software - R&amp;D to be located in Milpitas, Ca or Santa Ana, Ca\n.\nJohnson &amp; Johnson Vision Surgical (\"JJVS\") is focused on the discovery, development and commercialization of medical devices for cataract and refractive surgery. As a global cataract leader, JJVS provides intraocular lenses (both monofocal reimbursed and premium IOLs) that are specially designed to provide optimized visual outcomes, phacoemulsification and femtosecond laser equipment to safely and efficiently remove cataracts and a full offering of surgical adjuncts, including sterile viscosurgical devices/solutions.</p>\n\n<p>JJVS is the global market leader in the presbyopia correcting IOL marketplace and holds strong #2 positions in all other cataract surgery markets in which it competes. JJVS is also the global market leader in laser refractive surgery and provides excimer and femtosecond lasers and advanced diagnostic devices for corneal refractive surgery. JJVS provides its products in more than 150 countries (more than 60 with a direct sales presence) worldwide.</p>\n\n<p>The Director, Software - R&amp;D, will be responsible for leadership and management of software R&amp;D personnel.</p>\n\n<p>The Director, Software - R&amp;D will:</p>\n\n<ul>\n<li><p>Direct the planning and execution of software development and technical support for J&amp;J Vision's equipment product lines, which currently includes femtosecond lasers, excimer lasers, integrated aberrometer/topographer diagnostic systems, phacoemulsification devices, dry eye diagnostic and treatment systems, apps and websites.</p></li>\n<li><p>Assure compliance of all software and software- related activities with J&amp;J, government, quality and regulatory standards, policies and procedures.</p></li>\n<li><p>Address compliance with applicable Enterprise and Business Unit policies and procedures.</p></li>\n<li><p>Lead and manage the development and technology transfer of software solutions for J&amp;J Vision's current Product Portfolio includes excimer lasers, femtosecond lasers, aberrometer/topographer diagnostic systems, phacoemulsification systems, dry eye diagnostic and treatment systems and associated products.</p></li>\n<li><p>Lead the development and integration of software products that meet the needs of the company's customers.</p></li>\n<li><p>Provide the company with significant competitive differentiation against competitive companies and support the revenue growth requirements of the business.</p></li>\n<li><p>Provide leadership and vision for a multi-site R&amp;D software teams via the development and implementation of comprehensive software design for the lifecycle of the various product lines.</p></li>\n<li><p>Lead resource allocation, budgeting, outsourcing allocation, and personnel development as it relates to software development.</p></li>\n<li><p>Both directly and through subordinates, account for product development, product quality, documentation, support and packaging of software components.</p></li>\n<li><p>Work closely with the various cross-functional leaders to coordinate development of software and hardware to ensure timely registration and commercialization of J&amp;J Vision's equipment products.</p></li>\n<li><p>Supervise and lead Manager and Senior Manager level software professionals.</p></li>\n<li><p>Direct responsibility for software engineers, consultants and technicians.</p></li>\n<li><p>Direct the development and execution of software strategies and tactical plans to ensure the development, registration and commercialization of J&amp;J Vision's equipment products, while following internal policies and procedures and applicable US and Foreign regulatory standards and requirements.</p></li>\n<li><p>Prepare, manage and direct the execution of the Software R&amp;D operating budget.</p></li>\n<li><p>Hire, train and ensure retention of high-caliber individuals within the Software R&amp;D organization.</p></li>\n<li><p>Identify, retain and direct external software consultants and consultancy firms.</p></li>\n</ul><p>Qualifications:</p>\n\n<ul>\n<li><p>BS in Software Engineering, Computer Science or equivalent is required, advanced degree (MS or PhD) preferred.</p></li>\n<li><p>10 years of experience in the conduct and management of software and product development with at least 5 years of experience in developing software for medical devices is required.</p></li>\n<li><p>Excellent technical judgement and strong leadership skills as evidenced by a succession of technical software management positions with increasing responsibility is required.</p></li>\n<li><p>Experience in software development and new product commercialization in the medical device industry as demonstrated by a track record of successful development and commercialization of new products is required.</p></li>\n<li><p>Experience with cybersecurity and IoT (Internet of Things) is required.</p></li>\n<li><p>Familiarity with ophthalmic surgery is preferred.</p></li>\n<li><p>Complete understanding of software design, development, requirements management, and verification and validation processes, including the use of state of the art tools for management thereof is required.</p></li>\n<li><p>Excellent communication skills including both written and verbal in required</p></li>\n<li><p>Up to 10-15% domestic travel is required.</p></li>\n</ul><p>Primary Location:\nNorth America-United States-California-Santa Ana</p>\n\n<p>Other Location: North America-United States-California-Milpitas</p>\n\n<p>Organization:\nAMO US Holdings, Inc.. (6234)</p>\n\n<p>Job Function:\nR&amp;D</p>\n\n<p>Travel\n0-10%</p>\n\n<p>Apply Here: <a href=\"http://www.Click2Apply.net/4gm2kz3p8skqx985\">http://www.Click2Apply.net/4gm2kz3p8skqx985</a></p>\n\n<p>PI101457355</p>",
+        "createdAt": "2022-02-24T03:21:40.428Z",
+        "updatedAt": "2022-02-24T03:21:40.428Z",
+        "publishedAt": "2022-02-24T03:21:40.427Z",
+        "location": "Santa Ana, California",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1112,
+            "attributes": {
+              "name": "Johnson & Johnson",
+              "createdAt": "2022-02-24T03:21:39.870Z",
+              "updatedAt": "2022-02-24T03:21:39.870Z",
+              "publishedAt": "2022-02-24T03:21:39.869Z",
+              "url": "",
+              "logo": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 627,
+      "attributes": {
+        "title": "Senior Javascript Developer - Remote",
+        "description": "<p>The team at Kodify is looking for a talented Javascript Developer to join our remote team. This specific role is open to remote candidates based in European Union only (a must for us). With you on board, we’re looking to expand our team (currently 10 developers working across multiple European locations) and take our projects to a whole new level. Ability to work with our stakeholders to implement the features required.</p>\n\n<p>This role is specifically looking for people with skills within the field of BILLING and PAYMENTS, and as such, experience with 3rd party suppliers, databases, security (both network and data) are a significant requirement. The role will be to build and maintain a billing microservice, that allows our customers to confidently pay for our services, and allows us to manage our customer billing with ease.</p>\n\n<p><strong>KEY RESPONSIBILITIES</strong></p>\n\n<ul>\n<li>Be up to date with current billing solutions and practices</li>\n<li>Create Server side JS required functionality for billing systems</li>\n<li>Responsible for the security of the billing system</li>\n<li>Ensure all code is modular, and where possible developed as reusable</li>\n<li>End-to-end responsibility from technical design to deployment and testing</li>\n<li>Work with stakeholders to ensure they understand possibilities / limitations</li>\n<li>Always work towards making the system as fast as possible</li>\n<li>Become a valued team member, providing feedback to the team</li>\n<li>Take ownership of your code / tasks / role</li>\n<li>Be proud of what you achieve, and of the product, and be one of the driving forces behind always making it better</li>\n<li>When you screw-up - own-up! (We don’t do blame-storming here!)</li>\n<li>Have fun and enjoy your job!</li>\n</ul><p><strong>ABOUT YOU</strong></p>\n\n<ul>\n<li>You’ll be detail focused, and always want to ensure data is handled securely.</li>\n<li>An analytical mind is a must, especially when it comes to dissecting data.</li>\n<li>You’re a real team player. You love to help and find solutions together.</li>\n<li>Your sense of humour will bring a new dynamic to the team - you love to have fun while you work!</li>\n<li>You can think on your feet and adapt well to fast changing environments and priorities.</li>\n<li>You are passionate about software development</li>\n<li>You're able to think beyond code to architecture and user experience</li>\n<li>You have a real ‘Can Do’ work ethic - We are results based, not clock based</li>\n</ul><p><strong>REQUIREMENTS</strong></p>\n\n<ul>\n<li>Expert in understanding and developing billing solutions</li>\n<li>Great Javascript skills</li>\n<li>NodeJS</li>\n<li>MongoDB</li>\n<li>Github</li>\n<li>Security</li>\n</ul><p><strong>Bonus points:</strong>\nRecent experience with Rocketgate or other billing gateway\nRedis\nMessage Queuing systems\nReact\nHTML / CSS\nTDD\nYour own open source projects\nHigh traffic websites\nLinux\nAWS Technologies (e.g. EC2, S3, Cloudformation, ..)\nUnderstanding of, and agreement with, Agile principles\nKnowledge and experience in Git and JIRA</p>\n\n<p><strong>Other:</strong>\nExperience working remotely and with remote teams\nExperience managing high traffic and content heavy websites.</p>\n\n<p><strong>EDUCATION</strong></p>\n\n<p>Education is compulsory, but where you got it is irrelevant for us! We are looking for someone who has worked in a similar role (or roles) for at least 3 years, and can show us examples of their work. We are not looking for a newbie, nor are we looking for a rockstar, we are looking for a mid to senior level developer who wants to both learn and contribute to our team.</p>\n\n<p>Do you like what you read and want to be part of it? Please send us your CV along with a covering letter explaining why this job is right for you, and why you are right for the job!</p>",
+        "createdAt": "2022-02-24T03:21:40.430Z",
+        "updatedAt": "2022-02-24T03:21:40.430Z",
+        "publishedAt": "2022-02-24T03:21:40.429Z",
+        "location": "Remote",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1113,
+            "attributes": {
+              "name": "Kodify",
+              "createdAt": "2022-02-24T03:21:39.879Z",
+              "updatedAt": "2022-02-24T03:21:39.879Z",
+              "publishedAt": "2022-02-24T03:21:39.878Z",
+              "url": "https://kodify.io/",
+              "logo": "http://github-jobs.s3.amazonaws.com/f953ccaa-213a-11e8-982a-7b310eab5738.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 628,
+      "attributes": {
+        "title": "Junior Web-Entwickler (m/w) in Vollzeit",
+        "description": "<p>wilde van rhee steht für Branding und E-Commerce aus Leidenschaft. Seit über 10 Jahren setzen wir die Wünsche und Ziele unserer Kunden in die Realität um. Seit unserer Gründung durften wir für über 150 Unternehmen arbeiten, viele davon sind seit Jahren treue Kunden.</p>\n\n<p><strong>Deine Aufgaben</strong></p>\n\n<p>Als Teil von wilde van rhee entwickelst du innovative Webseiten mit WordPress und realisierst konversionsstarke E-Commerce-Lösungen mit Shopware und Magento. Außerdem betreust und optimierst du herausfordernde Bestandskunden-Projekte.</p>\n\n<p><strong>Was wir erwarten</strong></p>\n\n<ul>\n<li>Programmieren ist Deine Leidenschaft</li>\n<li>Ausbildung, Studium oder Quereinstieg, alles ist möglich</li>\n<li>Erfahrung mit PHP, HTML5, Ajax, JavaScript, jQuery, CSS3, und MySQL</li>\n<li>Idealerweise erste Erfahrung mit Shopsystemen und CMS-Lösungen</li>\n<li>Du bringst eine große Portion technische Neugier und ein gutes Verständnis für komplexe Zusammenhänge mit</li>\n</ul><p><strong>Was dich erwartet</strong></p>\n\n<ul>\n<li>Eine eingespielte und schlagkräftige Truppe, plus vierbeiniges Unterhaltungsprogramm</li>\n<li>Gut angebundener und moderner Arbeitsplatz</li>\n<li>Schulungen, Fachmesse oder Konferenzen, der Schreibtisch muss auch mal verlassen werden</li>\n<li>Work hard, play hard – Für die Pausen zwischendurch stehen Xbox und Kicker bereit</li>\n</ul><p><strong>So bewirbst du dich</strong></p>\n\n<p>Bitte schick uns deine Bewerbung in digitaler Form, unter Angabe deiner Gehaltsvorstellung und deinem möglichen Eintrittstermin an Alexander Boros: <a href=\"mailto:bewerbung@wildevanrhee.de\">bewerbung@wildevanrhee.de</a></p>",
+        "createdAt": "2022-02-24T03:21:40.433Z",
+        "updatedAt": "2022-02-24T03:21:40.433Z",
+        "publishedAt": "2022-02-24T03:21:40.432Z",
+        "location": "Köln (Cologne)",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1114,
+            "attributes": {
+              "name": "wilde van rhee GmbH",
+              "createdAt": "2022-02-24T03:21:39.888Z",
+              "updatedAt": "2022-02-24T03:21:39.888Z",
+              "publishedAt": "2022-02-24T03:21:39.887Z",
+              "url": "https://wildevanrhee.de",
+              "logo": "http://github-jobs.s3.amazonaws.com/8291580c-2127-11e8-9e07-04dbb229a65e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 629,
+      "attributes": {
+        "title": "DevOps Engineer [AWS, Chef, Ruby]",
+        "description": "<p>Aha! is looking for a DevOps engineer to build and maintain our highly automated AWS-based infrastructure. We value simplicity, robustness, performance, and low operational overhead. We like to script and configure using Ruby &amp; Chef (via AWS OpsWorks).</p>\n\n<p>We are seeing rapid growth, which means there are many interesting scale, performance, and architectural projects to tackle. DevOps engineers work as part of our overall engineering team, following the same development workflow we use for all parts of the product.</p>\n\n<p>As a DevOps Engineer at Aha!, you will have an excellent opportunity to join a breakthrough and profitable company that is growing fast. Aha! was founded by a proven team of Silicon Valley veterans whose last two businesses were acquired by well-known public companies. More than 150,000 users trust Aha! to link their brilliant strategy to their team's work and create visual roadmaps.</p>\n\n<h4>We are looking for someone who:</h4>\n\n<ul>\n<li>  Has built and operated large-scale web applications</li>\n<li>  Is an expert in Ruby scripting --- Ruby on Rails experience is a big plus</li>\n<li>  Has a \"security-first\" mentality</li>\n<li>  Has a computer science degree or demonstrated experience solving challenging CS problems</li>\n</ul><h4>We are committed to being great, and we want someone who:</h4>\n\n<ul>\n<li>  Can work at a fast-paced company where the feedback cycle is measured in hours rather than weeks</li>\n<li>  Has a \"get it done\" attitude and a background of delivering superb work again and again</li>\n<li>  Is seeking a career-defining opportunity and a proven, results-oriented team that has sold multiple software companies</li>\n</ul><p><em>We are building a distributed team, and you can work from anywhere in North America for this role. We offer generous salary, equity, benefits, and a profit-sharing program.</em></p>\n\n<p><strong>For immediate consideration, please follow these <a href=\"https://blog.aha.io/the-best-cover-letters-that-ceos-love-to-read/\" title=\"Read this first\">helpful guidelines</a> and contact us at <a href=\"mailto:Engineering-jobs@aha.io\">Engineering-jobs@aha.io</a>. Be sure to include a link to your GitHub or code portfolio. If you have the right background, we will quickly follow up with you. We are not working with recruiters or third-party agencies.</strong></p>",
+        "createdAt": "2022-02-24T03:21:40.434Z",
+        "updatedAt": "2022-02-24T03:21:40.434Z",
+        "publishedAt": "2022-02-24T03:21:40.434Z",
+        "location": "Your house",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1115,
+            "attributes": {
+              "name": "Aha!",
+              "createdAt": "2022-02-24T03:21:39.897Z",
+              "updatedAt": "2022-02-24T03:21:39.897Z",
+              "publishedAt": "2022-02-24T03:21:39.896Z",
+              "url": "https://www.aha.io/",
+              "logo": "http://github-jobs.s3.amazonaws.com/b47150a0-20b6-11e8-830e-f9a1ab6b06ad.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 630,
+      "attributes": {
+        "title": "Full Stack Software Engineer (Elixir, Vue.js)",
+        "description": "<p><strong>The Role</strong>\nThis is an opportunity to join a small, growing team and make a substantial impact at Bowery. We’re looking for someone that can learn, adapt and roll with a fast-paced, ever-changing environment and who isn’t afraid of uncertainty. </p>\n\n<p>Software Engineering at Bowery involves developing software systems that power a modern farm. This includes building out work management, data collection, visualization, and farm automation systems. You’ll be part of idea generation, design, prototyping, planning, and the execution of new software components of all aspects of our farms.</p>\n\n<p>The software stack at Bowery consists of a few, focused Elixir services running in AWS, Phoenix + Vue.js on the front-end, and Elixir (Nerves) running on thousands of in-house built devices on-premise in our farms. We're utilizing an event-driven architecture, RPC, and Channels/WebSockets to pass data throughout our services and real-time UI's.</p>\n\n<p><strong>What you’ll do at Bowery</strong></p>\n\n<ul>\n<li>Create innovative automation solutions and advance the state of indoor farming alongside mechanical engineers, agricultural scientists, and the farm operations team.</li>\n<li>Build responsive, mobile-first web applications to support the demands of farm operations and agricultural science teams.</li>\n<li>Develop systems to collect, process, and visualize data related to plant health and growing environment characteristics.</li>\n<li>Optimize crop cycles and workflow schedules to improve yields and make the best use of time in the farm.</li>\n<li>Scale systems to handle more farms, more sensors, more crops, and more operators.</li>\n</ul><p><strong>Who you are</strong></p>\n\n<ul>\n<li>You’ve got a BS in Computer Science or are just passionate about crafting better software.</li>\n<li>You proactively mitigate issues through test-driven development, continuous deployment, and thoughtful application of monitoring and alerting.</li>\n<li>You’ve developed and scaled production web applications using Elixir/Phoenix, Rails, Django, or similar backend MVC frameworks.</li>\n<li>You’ve built user interfaces using JavaScript frameworks like Vue.js, React, or Angular.</li>\n<li>You’ve used implementations of protocols like MQTT, XMPP, and AMQP to handle messaging between services in a distributed system.</li>\n<li>You’re excited about how advancements in machine learning and IoT can work in harmony to improve the state of the planet.</li>\n<li>You believe that teams succeed and fail together and take responsibility for ensuring the success and safety of your teammates.</li>\n<li>You’re confident taking ownership of projects from start to finish and enjoy the process of turning nebulous ideas into reality.</li>\n</ul><p><strong>About Bowery</strong>\nBowery is growing food for a better future by revolutionizing agriculture. Our modern farming company combines the benefits of the best local farms with advances made possible by technology to grow post-organic produce you can feel good about eating. BoweryOS, our proprietary software system, uses vision systems, automation technology, and machine learning to monitor plants and all the variables that drive their growth 24/7. Because we control the entire process from seed to store, Bowery farms use zero pesticides, 95% less water, and are 100+ times more productive on the same footprint of land than traditional agriculture. Bowery produce is currently available at select Whole Foods and Foragers stores in the Tristate area, and featured on the menus of Tom Colicchio’s New York restaurants Craft and Temple Court. Based in New York City, the company has raised $27.5M from leading investors including General Catalyst, GGV Capital, GV (formerly Google Ventures) and First Round Capital.</p>\n\n<p><strong>We are an equal opportunity employer. We welcome people of different backgrounds, experiences, abilities and perspectives. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.</strong></p>",
+        "createdAt": "2022-02-24T03:21:40.438Z",
+        "updatedAt": "2022-02-24T03:21:40.438Z",
+        "publishedAt": "2022-02-24T03:21:40.437Z",
+        "location": "New York",
+        "type": "Full Time",
+        "company": {
+          "data": {
+            "id": 1116,
+            "attributes": {
+              "name": "Bowery Farming",
+              "createdAt": "2022-02-24T03:21:39.906Z",
+              "updatedAt": "2022-02-24T03:21:39.906Z",
+              "publishedAt": "2022-02-24T03:21:39.905Z",
+              "url": "https://boweryfarming.com/",
+              "logo": "http://github-jobs.s3.amazonaws.com/29bbbfdc-208d-11e8-816b-a758e9890938.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": 1097,
+      "attributes": {
+        "name": "CircleCI",
+        "createdAt": "2022-02-24T03:21:39.718Z",
+        "updatedAt": "2022-02-24T03:21:39.718Z",
+        "publishedAt": "2022-02-24T03:21:39.714Z",
+        "url": "http://www.circleci.com ",
+        "logo": "http://github-jobs.s3.amazonaws.com/e31a24d4-2257-11e8-8ff4-dccd85004d2c.jpg"
+      }
+    },
+    {
+      "id": 1098,
+      "attributes": {
+        "name": "ClearAccessIP",
+        "createdAt": "2022-02-24T03:21:39.734Z",
+        "updatedAt": "2022-02-24T03:21:39.734Z",
+        "publishedAt": "2022-02-24T03:21:39.734Z",
+        "url": "http://ClearAccessIP",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1099,
+      "attributes": {
+        "name": "Chorus One",
+        "createdAt": "2022-02-24T03:21:39.744Z",
+        "updatedAt": "2022-02-24T03:21:39.744Z",
+        "publishedAt": "2022-02-24T03:21:39.744Z",
+        "url": "https://chorus.one/",
+        "logo": "http://github-jobs.s3.amazonaws.com/a72a0c76-224a-11e8-85c2-d62275ca4d68.jpg"
+      }
+    },
+    {
+      "id": 1100,
+      "attributes": {
+        "name": "Columbia University",
+        "createdAt": "2022-02-24T03:21:39.755Z",
+        "updatedAt": "2022-02-24T03:21:39.755Z",
+        "publishedAt": "2022-02-24T03:21:39.753Z",
+        "url": "",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1101,
+      "attributes": {
+        "name": "Vlocity",
+        "createdAt": "2022-02-24T03:21:39.765Z",
+        "updatedAt": "2022-02-24T03:21:39.765Z",
+        "publishedAt": "2022-02-24T03:21:39.764Z",
+        "url": "https://www.vlocity.com",
+        "logo": "http://github-jobs.s3.amazonaws.com/d5227984-2226-11e8-8f9c-918baba618c4.jpg"
+      }
+    },
+    {
+      "id": 1102,
+      "attributes": {
+        "name": "Sharethrough",
+        "createdAt": "2022-02-24T03:21:39.774Z",
+        "updatedAt": "2022-02-24T03:21:39.774Z",
+        "publishedAt": "2022-02-24T03:21:39.774Z",
+        "url": "http://Sharethrough",
+        "logo": "http://github-jobs.s3.amazonaws.com/e0508206-6bc1-11e5-89ca-4c0b59d838c7.png"
+      }
+    },
+    {
+      "id": 1103,
+      "attributes": {
+        "name": "Netcentric",
+        "createdAt": "2022-02-24T03:21:39.784Z",
+        "updatedAt": "2022-02-24T03:21:39.784Z",
+        "publishedAt": "2022-02-24T03:21:39.783Z",
+        "url": "https://www.netcentric.biz/careers.html",
+        "logo": "http://github-jobs.s3.amazonaws.com/43c9d514-2220-11e8-948c-2aacabb234e7.png"
+      }
+    },
+    {
+      "id": 1104,
+      "attributes": {
+        "name": "Pole Star Space Applications",
+        "createdAt": "2022-02-24T03:21:39.794Z",
+        "updatedAt": "2022-02-24T03:21:39.794Z",
+        "publishedAt": "2022-02-24T03:21:39.793Z",
+        "url": "https://www.polestarglobal.com/",
+        "logo": "http://github-jobs.s3.amazonaws.com/4388c24c-221e-11e8-8d92-574c93808f15.jpg"
+      }
+    },
+    {
+      "id": 1105,
+      "attributes": {
+        "name": "Finastra",
+        "createdAt": "2022-02-24T03:21:39.803Z",
+        "updatedAt": "2022-02-24T03:21:39.803Z",
+        "publishedAt": "2022-02-24T03:21:39.803Z",
+        "url": "https://www.finastra.com/careers",
+        "logo": "http://github-jobs.s3.amazonaws.com/865de188-221e-11e8-8579-75bee26ff356.png"
+      }
+    },
+    {
+      "id": 1106,
+      "attributes": {
+        "name": "CBRE",
+        "createdAt": "2022-02-24T03:21:39.813Z",
+        "updatedAt": "2022-02-24T03:21:39.813Z",
+        "publishedAt": "2022-02-24T03:21:39.812Z",
+        "url": "",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1107,
+      "attributes": {
+        "name": "Clevertech",
+        "createdAt": "2022-02-24T03:21:39.823Z",
+        "updatedAt": "2022-02-24T03:21:39.823Z",
+        "publishedAt": "2022-02-24T03:21:39.821Z",
+        "url": "https://clevertech.biz/",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1108,
+      "attributes": {
+        "name": "Publitas",
+        "createdAt": "2022-02-24T03:21:39.831Z",
+        "updatedAt": "2022-02-24T03:21:39.831Z",
+        "publishedAt": "2022-02-24T03:21:39.831Z",
+        "url": "https://www.publitas.com/about-us/",
+        "logo": "http://github-jobs.s3.amazonaws.com/c904fdf0-3999-11e7-9154-369f282201cb.png"
+      }
+    },
+    {
+      "id": 1109,
+      "attributes": {
+        "name": "Citrusbyte",
+        "createdAt": "2022-02-24T03:21:39.841Z",
+        "updatedAt": "2022-02-24T03:21:39.841Z",
+        "publishedAt": "2022-02-24T03:21:39.840Z",
+        "url": "https://citrusbyte.com",
+        "logo": "http://github-jobs.s3.amazonaws.com/c8200492-2198-11e8-8e57-a63f8fe1c5e3.png"
+      }
+    },
+    {
+      "id": 1110,
+      "attributes": {
+        "name": "Bites Media",
+        "createdAt": "2022-02-24T03:21:39.851Z",
+        "updatedAt": "2022-02-24T03:21:39.851Z",
+        "publishedAt": "2022-02-24T03:21:39.851Z",
+        "url": "http://bitesmedia.com",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1111,
+      "attributes": {
+        "name": "SKF B.V.",
+        "createdAt": "2022-02-24T03:21:39.861Z",
+        "updatedAt": "2022-02-24T03:21:39.861Z",
+        "publishedAt": "2022-02-24T03:21:39.860Z",
+        "url": "http://www.skf.com/benelux/nl/our-company/index.html",
+        "logo": "http://github-jobs.s3.amazonaws.com/c2505822-214e-11e8-8522-6dcf8a2d19b2.JPG"
+      }
+    },
+    {
+      "id": 1112,
+      "attributes": {
+        "name": "Johnson & Johnson",
+        "createdAt": "2022-02-24T03:21:39.870Z",
+        "updatedAt": "2022-02-24T03:21:39.870Z",
+        "publishedAt": "2022-02-24T03:21:39.869Z",
+        "url": "",
+        "logo": ""
+      }
+    },
+    {
+      "id": 1113,
+      "attributes": {
+        "name": "Kodify",
+        "createdAt": "2022-02-24T03:21:39.879Z",
+        "updatedAt": "2022-02-24T03:21:39.879Z",
+        "publishedAt": "2022-02-24T03:21:39.878Z",
+        "url": "https://kodify.io/",
+        "logo": "http://github-jobs.s3.amazonaws.com/f953ccaa-213a-11e8-982a-7b310eab5738.jpg"
+      }
+    },
+    {
+      "id": 1114,
+      "attributes": {
+        "name": "wilde van rhee GmbH",
+        "createdAt": "2022-02-24T03:21:39.888Z",
+        "updatedAt": "2022-02-24T03:21:39.888Z",
+        "publishedAt": "2022-02-24T03:21:39.887Z",
+        "url": "https://wildevanrhee.de",
+        "logo": "http://github-jobs.s3.amazonaws.com/8291580c-2127-11e8-9e07-04dbb229a65e.jpg"
+      }
+    },
+    {
+      "id": 1115,
+      "attributes": {
+        "name": "Aha!",
+        "createdAt": "2022-02-24T03:21:39.897Z",
+        "updatedAt": "2022-02-24T03:21:39.897Z",
+        "publishedAt": "2022-02-24T03:21:39.896Z",
+        "url": "https://www.aha.io/",
+        "logo": "http://github-jobs.s3.amazonaws.com/b47150a0-20b6-11e8-830e-f9a1ab6b06ad.png"
+      }
+    },
+    {
+      "id": 1116,
+      "attributes": {
+        "name": "Bowery Farming",
+        "createdAt": "2022-02-24T03:21:39.906Z",
+        "updatedAt": "2022-02-24T03:21:39.906Z",
+        "publishedAt": "2022-02-24T03:21:39.905Z",
+        "url": "https://boweryfarming.com/",
+        "logo": "http://github-jobs.s3.amazonaws.com/29bbbfdc-208d-11e8-816b-a758e9890938.jpg"
+      }
+    },
+    {
+      "id": 1117,
+      "attributes": {
+        "name": "Stocard GmbH",
+        "createdAt": "2022-02-24T03:21:39.915Z",
+        "updatedAt": "2022-02-24T03:21:39.915Z",
+        "publishedAt": "2022-02-24T03:21:39.914Z",
+        "url": "https://stocardapp.com",
+        "logo": "http://github-jobs.s3.amazonaws.com/76e0dec0-206d-11e8-9a0d-224e81c121f9.png"
+      }
+    },
+    {
+      "id": 1118,
+      "attributes": {
+        "name": "ALTEN Nederland",
+        "createdAt": "2022-02-24T03:21:39.924Z",
+        "updatedAt": "2022-02-24T03:21:39.924Z",
+        "publishedAt": "2022-02-24T03:21:39.924Z",
+        "url": "",
+        "logo": "http://github-jobs.s3.amazonaws.com/6aa22128-206d-11e8-93e0-8757711de704.jpg"
+      }
+    },
+    {
+      "id": 1119,
+      "attributes": {
+        "name": "Loco2",
+        "createdAt": "2022-02-24T03:21:39.934Z",
+        "updatedAt": "2022-02-24T03:21:39.934Z",
+        "publishedAt": "2022-02-24T03:21:39.933Z",
+        "url": "https://loco2.com/en/careers/experienced-mobile-engineer",
+        "logo": "http://github-jobs.s3.amazonaws.com/c12afc76-0840-11e8-8e83-41340ac9f1a1.png"
+      }
+    },
+    {
+      "id": 1120,
+      "attributes": {
+        "name": "Mobisol",
+        "createdAt": "2022-02-24T03:21:39.942Z",
+        "updatedAt": "2022-02-24T03:21:39.942Z",
+        "publishedAt": "2022-02-24T03:21:39.942Z",
+        "url": "",
+        "logo": "http://github-jobs.s3.amazonaws.com/52855652-1e31-11e8-94fe-d1405ad8e995.jpg"
+      }
+    },
+    {
+      "id": 1121,
+      "attributes": {
+        "name": "Finnovate Limited",
+        "createdAt": "2022-02-24T03:21:39.953Z",
+        "updatedAt": "2022-02-24T03:21:39.953Z",
+        "publishedAt": "2022-02-24T03:21:39.952Z",
+        "url": "http://www.finnovate.com",
+        "logo": ""
+      }
+    }
+  ]
+}

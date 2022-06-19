@@ -1,0 +1,22 @@
+{
+  "workspaces": [
+    "./frontend",
+    "./backend"
+  ],
+  "scripts": {
+    "frontend": "http-server -a localhost -p 8083 frontend/src",
+    "cypress": "cypress open",
+    "cy:testone": "cypress run -s cypress/integration/$SPEC_FILE",
+    "test": "start-server-and-test frontend http-get://localhost:8083 cy:testone",
+    "lint": "eslint --ext .js frontend/src",
+    "backend": "npm run -w backend develop",
+    "sampledata": "node ./uploadData.js"
+  },
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "cypress": "^9.5.3",
+    "eslint": "^8.12.0",
+    "http-server": "^14.1.0",
+    "start-server-and-test": "^1.14.0"
+  }
+}

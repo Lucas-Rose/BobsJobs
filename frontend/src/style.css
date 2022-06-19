@@ -1,0 +1,144 @@
+html {
+    background-color: #D9D9D9;
+}
+h1{
+    text-align:left;
+    color:#FFFFFF;
+    font-size:500%;
+    padding:2%;
+    margin:0%;
+    background-color:#6EAFDA;
+    font-family:impact;
+    font-style:italic;
+    font-weight:50;
+}
+.selected{
+    background-color:#797979;
+}
+
+.nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #353535;
+}
+
+.nav > ul > li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-family:Arial
+}
+
+li a:hover {
+    background-color: #585858;
+}
+
+.searchbar{
+    text-align:center;
+    padding:1%;
+    background-color:#A8CEE7
+}
+
+.searchbar > input{
+    width: 50%;
+    font-size:large;
+    font-family:impact;
+    padding:5px;
+    font-weight:50;
+}
+
+.searchbar > button{
+    font-size:large;
+    font-family:impact;
+    font-style:italic;
+    padding:5px;
+    background-color:#353535;
+    color:white;
+    border:solid #353535;
+}
+
+.login{
+    position:absolute;
+    top:3%;
+    right:3%;
+}
+
+.login > input{
+    font-family:arial;
+    font-size:medium;
+}
+
+.login > button{
+    font-family:arial;
+    font-size:medium;
+    background-color:#353535;
+    color:white;
+    border:solid #353535
+}
+
+.jobList{
+    padding:15px;
+    background-color:#6EAFDA
+}
+
+.job{
+    background-color:#D9D9D9;
+    border:solid #c0c0c0;
+    padding:10px;
+    margin:10px;
+    font-family:Arial;
+}
+
+.job > a{
+    font-size:x-large;
+    font-family:Arial;
+}
+
+.job > p{
+    font-size:medium;
+}
+
+.job > img{
+    float:right;
+}
+
+.container{
+    background-color:#A8CEE7
+}
+
+.job-description{
+    background-color:#D9D9D9;
+    padding:10px;
+    width:90%;
+    margin:auto;
+    height:90%;
+    font-family:Arial;
+    border:solid #6EAFDA;
+    border-width: 10px
+}
+
+.compView{
+    margin:auto;
+    text-align:center;
+    background-color:#e4e4e4;
+    font-family:impact;
+    font-size:x-large;
+    border: solid #6EAFDA;
+    border-width:10px;
+    padding:10px;
+    width:55%;
+}
+
+.heading{
+    padding:10px;
+    font-family:arial;
+    margin-left:1%;
+}
